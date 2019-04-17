@@ -1,0 +1,1016 @@
+,District Name,CDS Number (District),American Indian or Alaska Native (CAASPP-Math Levels 3 and 4) (District),Asian (CAASPP-Math Levels 3 and 4) (District),Black or African American (CAASPP-Math Levels 3 and 4) (District),Filipino (CAASPP-Math Levels 3 and 4) (District),Hispanic or Latino (CAASPP-Math Levels 3 and 4) (District),Native Hawaiian or Pac Islandr (CAASPP-Math Levels 3 and 4) (District),Two or More Races (CAASPP-Math Levels 3 and 4) (District),White (CAASPP-Math Levels 3 and 4) (District),Males (CAASPP-Math Levels 3 and 4) (District),Females (CAASPP-Math Levels 3 and 4) (District),CAASPP-Math Standard Exceeded or Met (Levels 3 and 4) (District),CAASPP-Math Standard Exceeded (Level 4) (District),CAASPP-Math Standard Met (Level 3) (District),CAASPP-Math Standard Nearly Met (Level 2) (District),CAASPP-Math Standard Not Met (Level 1) (District)
+0,ABC Unified (Los Angeles),19-64212-0000000,57.6,84.4,36.8,71.2,35.9,40.9,64.4,55.3,53.7,54,53.8,30.4,23.5,24.1,22.1
+1,Acalanes Union High (Contra Costa),07-61630-0000000,redacted,83.4,26.1,73.7,53.4,redacted,77.3,68.5,69.7,68.7,69.2,39.9,29.3,17.8,13.1
+2,Ackerman Charter (Placer),31-66761-0000000,redacted,redacted,redacted,redacted,47.7,,80,61.1,65.1,54.6,59.7,31.8,27.9,31.2,9.1
+3,Acton-Agua Dulce Unified (Los Angeles),19-75309-0000000,redacted,redacted,redacted,redacted,23.9,redacted,28.6,39.4,33.8,29.7,31.9,10.6,21.3,36.6,31.6
+4,Adelanto Elementary (San Bernardino),36-67587-0000000,23.5,25,6,39.4,12.6,17,9.6,14.1,11.6,11.4,11.5,2.7,8.8,23.3,65.2
+5,Alameda County Office of Education (Alameda),01-10017-0000000,,redacted,0,redacted,0,redacted,redacted,redacted,0,0,0,0,0,3.9,96.1
+6,Alameda Unified (Alameda),01-61119-0000000,21.4,71.6,23.8,46,42.9,22,63.4,64.5,58.6,57.7,58.2,31.9,26.3,22.5,19.4
+7,Albany City Unified (Alameda),01-61127-0000000,redacted,82.6,49.1,50,57,redacted,69.7,79.4,72.8,75.1,73.9,46.4,27.5,15.7,10.4
+8,Alexander Valley Union Elementary (Sonoma),49-70599-0000000,,,,,36,,,60,40,60,50.8,29.2,21.5,33.9,15.4
+9,Alhambra Unified (Los Angeles),19-75713-0000000,17.7,75.3,30,65.6,30.7,redacted,67.9,40.4,53.9,56.6,55.2,30.7,24.5,22.3,22.5
+10,Alisal Union (Monterey),27-65961-0000000,redacted,57.1,36.4,60,20.3,36.4,58.3,37.9,21.7,20.7,21.2,5.1,16.1,29.2,49.6
+11,Allensworth Elementary (Tulare),54-71795-0000000,,,,,15,,,redacted,11.8,16.7,14.6,0,14.6,29.3,56.1
+12,Alpaugh Unified (Tulare),54-71803-0000000,,redacted,,redacted,8.6,,,redacted,8.1,8.8,8.5,1.1,7.3,25.4,66.1
+13,Alpine County Office of Education (Alpine),02-10025-0000000,,,,,,,,,,,,,,,
+14,Alpine County Unified (Alpine),02-61333-0000000,21.7,,,,redacted,,redacted,45.2,40,41.7,40.7,25.4,15.3,37.3,22
+15,Alpine Union Elementary (San Diego),37-67967-0000000,22.4,37.5,20.7,60,33.3,redacted,55,46.5,42.9,40.6,41.7,13.9,27.8,32.7,25.6
+16,Alta Loma Elementary (San Bernardino),36-67595-0000000,35,79.9,34.4,72.4,42,47.8,50.9,55.5,51,48.8,49.9,23.8,26.2,28.2,21.9
+17,Alta Vista Elementary (Tulare),54-71811-0000000,redacted,redacted,,,6.4,0,redacted,9.1,7.1,5.9,6.5,0,6.5,27.7,65.8
+18,Alta-Dutch Flat Union Elementary (Placer),31-66779-0000000,redacted,redacted,,,redacted,,redacted,51.6,46.3,59.4,52.1,23.3,28.8,37,11
+19,Alum Rock Union Elementary (Santa Clara),43-69369-0000000,8.3,59.9,25.7,47.6,24.5,29.6,56.9,51.7,30.8,30.7,30.8,12.5,18.2,27.1,42.2
+20,Alview-Dairyland Union Elementary (Madera),20-65177-0000000,,redacted,,redacted,25.9,,,59.3,40.4,40.8,40.6,18.8,21.8,41,18.4
+21,Alvina Elementary (Fresno),10-61994-0000000,redacted,,,,41.1,redacted,,66.7,44.3,42.6,43.5,21.3,22.2,21.3,35.2
+22,Alvord Unified (Riverside),33-66977-0000000,25,62,27.5,60.3,24,32.7,45.2,42.2,28,28.2,28.1,9.7,18.4,28.7,43.3
+23,Amador County Office of Education (Amador),03-10033-0000000,redacted,,,,7.4,,redacted,8.2,5.3,9.4,7,0.8,6.3,18,75
+24,Amador County Unified (Amador),03-73981-0000000,21.4,41.2,30.8,41.7,24.5,redacted,30.6,34,31.7,31.4,31.5,11,20.5,33.8,34.7
+25,Anaheim Elementary (Orange),30-66423-0000000,redacted,63.1,24.8,59,17.9,29.6,34.4,36.9,22.9,20.4,21.7,7.4,14.4,27.9,50.4
+26,Anaheim Union High (Orange),30-66431-0000000,15.1,73.2,22.3,53.6,17.6,25,39.3,34,27.8,29.6,28.6,13.4,15.3,24,47.3
+27,Anderson Union High (Shasta),45-69856-0000000,31.8,redacted,redacted,redacted,17.9,redacted,redacted,30.7,26.3,30.1,28,6.3,21.8,30,42
+28,Anderson Valley Unified (Mendocino),23-65540-0000000,redacted,,redacted,,21.7,,redacted,51.9,32.8,22.1,27.7,8.7,19,35.2,37.2
+29,Antelope Elementary (Tehama),52-71472-0000000,30.8,redacted,redacted,redacted,35.2,redacted,73.3,49.6,50.2,43.1,46.4,19.1,27.3,29.1,24.5
+30,Antelope Valley Union High (Los Angeles),19-64246-0000000,5.3,64.2,6.3,45.5,12.1,redacted,21,26.2,14.2,15.1,14.7,4,10.6,22.2,63.1
+31,Antioch Unified (Contra Costa),07-61648-0000000,12.7,38.6,10.5,42.4,16.7,25.2,27.6,28.2,19.5,19.8,19.7,5.5,14.2,27.6,52.7
+32,Apple Valley Unified (San Bernardino),36-75077-0000000,28.6,55.7,10.7,46.2,18.7,22.6,27.6,32.2,24.9,23.6,24.2,8.5,15.8,29.7,46
+33,Arcadia Unified (Los Angeles),19-64261-0000000,redacted,85.6,48.2,66.7,42.9,redacted,55.3,68.3,76.4,75,75.7,53.8,21.9,14.9,9.4
+34,Arcata Elementary (Humboldt),12-62679-0000000,30,redacted,redacted,,25,redacted,41.9,45,41.4,39.2,40.2,18.1,22.2,33.4,26.3
+35,Arcohe Union Elementary (Sacramento),34-67280-0000000,redacted,redacted,redacted,redacted,33.9,redacted,50,52.6,38.8,44.5,41.5,19.3,22.2,33.1,25.5
+36,Arena Union Elementary (Mendocino),23-65557-0000000,26.3,,,,23.9,,redacted,35.1,31.9,21.8,27,7.3,19.7,24.7,48.3
+37,Arena Union Elementary/Point Arena Joint Union High (Mendocino),23-76349-0000000,,,,,,,,,,,,,,,
+38,Armona Union Elementary (Kings),16-63875-0000000,redacted,redacted,12.5,redacted,20.1,,redacted,17.3,20,20,20,5.4,14.6,26.9,53.1
+39,Aromas/San Juan Unified (San Benito),35-75259-0000000,,redacted,,redacted,24.6,,redacted,39.5,29.4,28.8,29.1,9.4,19.7,30.6,40.3
+40,Arvin Union (Kern),15-63313-0000000,redacted,redacted,redacted,redacted,21,,redacted,28.8,19.9,22.8,21.3,7.1,14.2,27.6,51.1
+41,Atascadero Unified (San Luis Obispo),40-68700-0000000,35.7,60,22.9,59.3,24.2,redacted,39.5,42.7,38.7,36.4,37.6,14.4,23.2,31.3,31.2
+42,Atwater Elementary (Merced),24-65631-0000000,17.7,50,25.3,57.1,30.6,33.3,35.8,42.6,33.5,33.9,33.7,13,20.7,30.2,36.1
+43,Auburn Union Elementary (Placer),31-66787-0000000,16.7,37.5,31.3,31.3,17.1,redacted,26.3,33.6,28.6,27.5,28,10.9,17.1,34.8,37.2
+44,Azusa Unified (Los Angeles),19-64279-0000000,redacted,59,10.4,64.4,23.3,,22.2,38.8,24,24.8,24.4,8,16.4,29.1,46.5
+45,Baker Valley Unified (San Bernardino),36-73858-0000000,,,,,14.3,,,redacted,12.5,15.6,13.9,1.4,12.5,30.6,55.6
+46,Bakersfield City (Kern),15-63321-0000000,22.3,43.2,12.9,50.7,22.4,17.4,30.2,39.4,24.2,22.9,23.6,8.5,15.1,27.3,49.2
+47,Baldwin Park Unified (Los Angeles),19-64287-0000000,18.2,70.8,26.3,47.1,22.8,redacted,,22.7,26,25.9,25.9,8.6,17.3,31.2,42.9
+48,Ballard Elementary (Santa Barbara),42-69104-0000000,,redacted,redacted,,75,,,75.9,70.3,83.3,76.7,45.2,31.5,17.8,5.5
+49,Ballico-Cressey Elementary (Merced),24-65649-0000000,redacted,redacted,redacted,,28.5,,redacted,50.8,37.1,35.4,36.4,13.8,22.5,34.8,28.9
+50,Bangor Union Elementary (Butte),04-61382-0000000,redacted,redacted,,,redacted,,redacted,29.6,23.3,26.9,25,7.1,17.9,26.8,48.2
+51,Banning Unified (Riverside),33-66985-0000000,1.4,21.4,13.6,35.7,16.8,redacted,29.5,20.7,17.1,17.5,17.3,4.4,12.9,26.3,56.4
+52,Banta Elementary (San Joaquin),39-68486-0000000,,57.8,26.7,69.2,23.4,redacted,41.2,31.7,34.8,34.5,34.7,11.6,23,30.5,34.9
+53,Barstow Unified (San Bernardino),36-67611-0000000,18.8,42.3,10.4,55.6,19.5,35,25.9,29.4,21.1,20.4,20.8,7.2,13.6,26.6,52.6
+54,Bass Lake Joint Union Elementary (Madera),20-65185-0000000,redacted,redacted,redacted,redacted,21.9,redacted,27.3,44.7,40.1,38.2,39.2,12.3,26.9,33.9,26.9
+55,Bassett Unified (Los Angeles),19-64295-0000000,redacted,67.2,redacted,54.2,27.5,redacted,,22.2,28.8,29.1,28.9,10.4,18.5,29.9,41.2
+56,Bayshore Elementary (San Mateo),41-68858-0000000,,44.7,redacted,28.6,13.4,21.4,redacted,redacted,20.8,23.9,22.3,10.7,11.6,24.8,52.9
+57,Bear Valley Unified (San Bernardino),36-67637-0000000,redacted,54.6,redacted,,15.5,redacted,32.5,35.9,27.8,28.8,28.3,10.5,17.8,27.6,44.1
+58,Beardsley Elementary (Kern),15-63339-0000000,redacted,redacted,6.7,redacted,16.6,redacted,24.3,23,20.5,19,19.8,4.7,15.2,32.3,47.9
+59,Beaumont Unified (Riverside),33-66993-0000000,22.2,65.8,19.4,58.3,27.2,35.7,48.9,41.3,34.2,33.6,33.9,13.5,20.4,28.4,37.7
+60,Bella Vista Elementary (Shasta),45-69872-0000000,45.5,redacted,redacted,redacted,11.1,redacted,redacted,41.2,29.4,45.4,37.8,15.3,22.5,27.7,34.5
+61,Belleview Elementary (Tuolumne),55-72306-0000000,redacted,,redacted,,15.8,redacted,redacted,18.8,23.9,15.1,19.2,5.1,14.1,48.5,32.3
+62,Bellevue Union (Sonoma),49-70615-0000000,redacted,43.3,23.1,redacted,27.9,,27.3,32.2,29,27.9,28.5,10.6,17.9,30.5,41.1
+63,Bellflower Unified (Los Angeles),19-64303-0000000,13.6,61.5,22.1,56.4,24,35.6,33.9,44.5,29.1,29.1,29.1,10.5,18.6,30.3,40.6
+64,Belmont-Redwood Shores Elementary (San Mateo),41-68866-0000000,redacted,88.9,24.5,68.7,43.4,57.1,80.5,75.4,74.2,74.9,74.5,51.5,23,17.3,8.2
+65,Belridge Elementary (Kern),15-63347-0000000,,,,,39.1,,,,38.5,redacted,39.1,13,26.1,34.8,26.1
+66,Benicia Unified (Solano),48-70524-0000000,53.9,81.6,23.7,70.4,40.9,redacted,54.1,59.3,54.1,53,53.5,24.1,29.5,26.9,19.6
+67,Bennett Valley Union Elementary (Sonoma),49-70623-0000000,redacted,68,54.6,redacted,39,redacted,71.4,60.6,59.3,54.7,57.2,26.4,30.9,30.7,12.1
+68,Berkeley Unified (Alameda),01-61143-0000000,redacted,60.4,18.4,60,38.6,redacted,65.1,80,58.6,55.8,57.3,33.4,23.9,19.9,22.8
+69,Berryessa Union Elementary (Santa Clara),43-69377-0000000,redacted,74.2,30.3,47.2,23.4,14.8,51.3,56.9,55.4,55,55.2,32.3,22.9,24.3,20.5
+70,Beverly Hills Unified (Los Angeles),19-64311-0000000,redacted,81.7,37.1,61.1,60.9,redacted,59.5,65,64.9,65.9,65.4,36.9,28.5,21.5,13.1
+71,Big Creek Elementary (Fresno),10-62026-0000000,,,,,50,,,39.1,43.8,42.1,42.9,20,22.9,25.7,31.4
+72,Big Lagoon Union Elementary (Humboldt),12-62695-0000000,redacted,,,,redacted,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+73,Big Oak Flat-Groveland Unified (Tuolumne),55-75184-0000000,,redacted,redacted,redacted,11.1,,redacted,14.6,15.9,11.5,13.6,0.7,12.9,29.3,57.1
+74,Big Pine Unified (Inyo),14-63248-0000000,10.5,,,,19.1,,redacted,28,25.5,10.8,19.3,4.6,14.8,31.8,48.9
+75,Big Springs Union Elementary (Siskiyou),47-70185-0000000,redacted,redacted,,,4.4,,redacted,47.4,32.8,44.9,37.9,11.2,26.7,25.9,36.2
+76,Big Sur Unified (Monterey),27-75150-0000000,,redacted,,,redacted,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+77,Big Valley Joint Unified (Lassen),18-64089-0000000,redacted,,,,redacted,,,10.7,12.1,5.9,9,1.5,7.5,28.4,62.7
+78,Biggs Unified (Butte),04-61408-0000000,redacted,redacted,redacted,,11.4,redacted,redacted,19.7,13.3,17.1,15.1,2.1,13.1,30.9,54
+79,Bishop Unified (Inyo),14-76687-0000000,18.7,53.9,redacted,redacted,21.8,,45.7,54.9,38.1,33.9,36.2,14.6,21.6,27.1,36.8
+80,Bitterwater-Tully Elementary (San Benito),35-67454-0000000,,,,,redacted,,,30.8,redacted,26.7,27.8,11.1,16.7,44.4,27.8
+81,Black Butte Union Elementary (Shasta),45-69880-0000000,redacted,redacted,,redacted,45.5,redacted,redacted,26.7,16.7,43.1,30.4,11.2,19.2,32,37.6
+82,Black Oak Mine Unified (El Dorado),09-73783-0000000,10.5,redacted,redacted,,19.7,,redacted,28.3,28.3,26.1,27.2,7.5,19.7,35.2,37.6
+83,Blake Elementary (Kern),15-63354-0000000,,,,,redacted,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+84,Blochman Union Elementary (Santa Barbara),42-69112-0000000,redacted,redacted,,,20.8,,redacted,50,43.9,30.8,36.9,16.4,20.5,28.7,34.4
+85,Blue Lake Union Elementary (Humboldt),12-62703-0000000,0,,,,18.8,,25,27.4,25.9,16.7,21.3,6.5,14.8,34.3,44.4
+86,Bogus Elementary (Siskiyou),47-70193-0000000,,,,,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+87,Bolinas-Stinson Union (Marin),21-65300-0000000,,redacted,,,53.3,,redacted,57.6,52.9,54.3,53.9,25,28.9,26.9,19.2
+88,Bonita Unified (Los Angeles),19-64329-0000000,35.7,81.5,32.9,73,46.7,redacted,59.6,61.5,52.9,55.2,54,27.3,26.7,27,19
+89,Bonny Doon Union Elementary (Santa Cruz),44-69732-0000000,redacted,redacted,,,redacted,,redacted,47.7,51,44.4,47.9,17,30.9,37.2,14.9
+90,Bonsall Unified (San Diego),37-76851-0000000,20.4,89.6,52,87.1,45.7,redacted,66.7,72,61,59.7,60.4,31,29.4,22.9,16.7
+91,Borrego Springs Unified (San Diego),37-67983-0000000,redacted,,redacted,redacted,14.7,,redacted,31.4,18,17.9,17.9,6.1,11.8,31.1,50.9
+92,Bradley Union Elementary (Monterey),27-65979-0000000,,redacted,,,11.1,,redacted,45.2,23.1,44,33.3,13.7,19.6,23.5,43.1
+93,Brawley Elementary (Imperial),13-63073-0000000,,redacted,16,redacted,24.5,redacted,redacted,36.4,26.6,23.7,25.1,7.7,17.5,32.3,42.6
+94,Brawley Union High (Imperial),13-63081-0000000,,redacted,redacted,redacted,22.2,,redacted,40,24.5,23.7,24.1,6.6,17.5,26.1,49.8
+95,Brea-Olinda Unified (Orange),30-66449-0000000,redacted,86.5,39.3,76.6,45,64.3,77.6,63.2,62.2,61.7,62,35.4,26.6,22.4,15.6
+96,Brentwood Union Elementary (Contra Costa),07-61655-0000000,42.1,68.9,32.7,68.3,38.8,40.5,55.7,57.3,51.3,50.4,50.8,24.2,26.6,28.4,20.8
+97,Bret Harte Union High (Calaveras),05-61556-0000000,redacted,redacted,,redacted,25.9,,redacted,43.9,41.3,40,40.7,13.3,27.3,22,37.3
+98,Bridgeville Elementary (Humboldt),12-62729-0000000,,,,,redacted,,redacted,redacted,redacted,redacted,33.3,16.7,16.7,50,16.7
+99,Briggs Elementary (Ventura),56-72447-0000000,,,,,26.4,,redacted,31.8,32.1,20.8,26.6,8.4,18.2,32,41.4
+100,Brisbane Elementary (San Mateo),41-68874-0000000,,58.7,redacted,47.8,34.9,redacted,60.7,57.8,53.8,47,50.3,24,26.4,29.4,20.3
+101,Brittan Elementary (Sutter),51-71357-0000000,redacted,,,,29,,42.4,39.9,35.8,39.6,37.5,11.5,26,28,34.5
+102,Browns Elementary (Sutter),51-71365-0000000,,redacted,redacted,,32.6,redacted,redacted,42.3,34,40.4,37.4,9.4,28,36.5,26.2
+103,Buckeye Union Elementary (El Dorado),09-61838-0000000,redacted,80.1,45.2,64.2,51.8,58.3,66.4,65.1,64.8,63.5,64.2,33.2,30.9,23.9,12
+104,Buellton Union Elementary (Santa Barbara),42-69138-0000000,redacted,redacted,redacted,,50,,68.8,73.7,62,61.7,61.8,31.3,30.5,22.7,15.5
+105,Buena Park Elementary (Orange),30-66456-0000000,redacted,75.2,24.8,64,26.4,16.7,34.8,47.9,37.3,36.7,37,16.7,20.3,28,35
+106,Buena Vista Elementary (Tulare),54-71829-0000000,,,redacted,,39.3,,redacted,42.6,40.6,40.3,40.4,19.9,20.6,32.4,27.2
+107,Burbank Unified (Los Angeles),19-64337-0000000,38.5,76.1,31.4,63.9,33.5,53.9,58.4,54.6,47.4,48.4,47.9,22.1,25.9,27.8,24.3
+108,Burlingame Elementary (San Mateo),41-68882-0000000,redacted,91.3,52.9,64.2,47.6,redacted,85.1,77.2,73.7,76.8,75.2,50.9,24.3,15.9,8.9
+109,Burnt Ranch Elementary (Trinity),53-71662-0000000,43.5,redacted,redacted,,58.3,,,39.1,45.2,51.6,48.4,17.7,30.7,32.3,19.4
+110,Burrel Union Elementary (Fresno),10-62042-0000000,,redacted,,,30.3,,,redacted,29.6,32.1,30.6,4.2,26.4,34.7,34.7
+111,Burton Elementary (Tulare),54-71837-0000000,23.3,44.2,30.4,34.6,18,redacted,38.1,33.8,23.5,22.4,23,7.8,15.2,31.2,45.9
+112,Butte County Office of Education (Butte),04-10041-0000000,0,redacted,redacted,redacted,3.9,,7.7,7.9,6.6,5.2,5.9,1.1,4.8,25.7,68.5
+113,Butte Valley Unified (Siskiyou),47-73684-0000000,redacted,redacted,,,20,,redacted,25.3,19.5,29.4,23.9,11,12.9,31,45.2
+114,Butteville Union Elementary (Siskiyou),47-70201-0000000,redacted,,redacted,,40.9,,41.2,49,53.2,38.1,46.5,17.6,28.9,31,22.5
+115,Buttonwillow Union Elementary (Kern),15-63370-0000000,redacted,redacted,redacted,,10.8,,redacted,26.3,13.9,12.7,13.3,2.9,10.4,36.3,50.4
+116,Byron Union Elementary (Contra Costa),07-61663-0000000,37.5,54.7,36.2,redacted,41.6,56.5,44,52.9,46.4,52.4,49.4,24.8,24.6,27.7,22.9
+117,Cabrillo Unified (San Mateo),41-68890-0000000,redacted,62.1,redacted,42.1,15.9,redacted,66.1,53.9,34.4,34,34.2,13,21.2,28.4,37.4
+118,Cajon Valley Union (San Diego),37-67991-0000000,33.3,47,17.7,47.4,25.1,43.3,40.2,37.7,33.2,31.6,32.5,13.5,18.9,27.1,40.4
+119,Calaveras County Office of Education (Calaveras),05-10058-0000000,redacted,redacted,redacted,,11.6,redacted,13.6,22,20.3,17.6,19.1,7.4,11.7,29.3,51.6
+120,Calaveras Unified (Calaveras),05-61564-0000000,10.3,41.2,18.2,redacted,18.3,redacted,34.4,29.2,26.2,27.8,27,8.4,18.6,32.4,40.6
+121,Calexico Unified (Imperial),13-63099-0000000,redacted,52.9,redacted,,18.4,,,31.6,18.3,18.8,18.5,5.2,13.3,27.7,53.7
+122,Caliente Union Elementary (Kern),15-63388-0000000,,,,,redacted,,redacted,25,37.5,10.5,22.9,8.6,14.3,20,57.1
+123,Calipatria Unified (Imperial),13-63107-0000000,,redacted,12.5,redacted,26.6,,redacted,29.8,27,25.9,26.5,10.1,16.4,30.5,43.1
+124,Calistoga Joint Unified (Napa),28-66241-0000000,redacted,redacted,,redacted,27.9,,,64.9,37.8,28.8,33.3,12.4,20.9,36.5,30.3
+125,Cambrian (Santa Clara),43-69385-0000000,33.3,81.2,42.2,47.7,31.6,27.3,69.7,60.7,57.3,55.3,56.3,31.7,24.6,24.6,19.1
+126,Camino Union Elementary (El Dorado),09-61846-0000000,redacted,,,,24.8,,20,50,31.7,43.4,37.9,14.5,23.4,35.6,26.6
+127,Campbell Union (Santa Clara),43-69393-0000000,42.9,81.4,32.1,55.8,27.2,36.7,71,68.1,47.6,49.1,48.3,27.4,21,23.1,28.6
+128,Campbell Union High (Santa Clara),43-69401-0000000,redacted,80.4,18.6,35.6,21.1,33.3,70.9,54.9,44.5,48.7,46.5,23.5,23,21.7,31.8
+129,Camptonville Elementary (Yuba),58-72728-0000000,redacted,,,,redacted,,redacted,53.6,70.8,35.7,57.9,21.1,36.8,23.7,18.4
+130,Canyon Elementary (Contra Costa),07-61671-0000000,,redacted,redacted,,redacted,,redacted,64.5,64,71.4,67.4,41.3,26.1,21.7,10.9
+131,Capay Joint Union Elementary (Glenn),11-62554-0000000,,redacted,,,24.6,,redacted,57.5,45,43.4,44.1,17.7,26.5,27.2,28.7
+132,Capistrano Unified (Orange),30-66464-0000000,51,85.7,38,70.4,35.7,51.5,71.5,66.4,60.4,58.6,59.5,33.4,26.1,22.2,18.2
+133,Cardiff Elementary (San Diego),37-68007-0000000,,redacted,,,43.4,,90.5,79,72.5,72.7,72.6,44.7,27.9,19.5,7.9
+134,Carlsbad Unified (San Diego),37-73551-0000000,50,88.3,38.7,79,44.4,72.7,75.5,71.2,66,63.3,64.7,38.9,25.8,21.3,14
+135,Carmel Unified (Monterey),27-65987-0000000,redacted,85,redacted,redacted,48.4,redacted,69.3,73.7,69.8,67.7,68.8,40.2,28.6,19.7,11.5
+136,Carpinteria Unified (Santa Barbara),42-69146-0000000,redacted,80,redacted,redacted,34,,66.7,59.6,38.3,43.2,40.6,14.3,26.3,28.3,31.1
+137,Caruthers Unified (Fresno),10-75598-0000000,redacted,46.2,redacted,,29.3,redacted,redacted,41,30.3,32.9,31.6,10.9,20.7,29,39.4
+138,Cascade Union Elementary (Shasta),45-69914-0000000,23.5,34.8,0,redacted,23.7,redacted,12.5,28.5,26.4,26.2,26.3,9,17.3,29.8,44
+139,Castaic Union (Los Angeles),19-64345-0000000,redacted,70.6,27.3,47.4,28.9,redacted,74.5,54,45.1,42,43.6,16.4,27.2,33,23.4
+140,Castle Rock Union Elementary (Shasta),45-69922-0000000,redacted,,redacted,,redacted,,redacted,33.3,37.5,43.8,40.6,18.8,21.9,31.3,28.1
+141,Castro Valley Unified (Alameda),01-61150-0000000,redacted,80.6,33.6,58.5,42.5,50,66.4,61.3,61,60.8,60.9,35.5,25.4,21.8,17.3
+142,Cayucos Elementary (San Luis Obispo),40-68726-0000000,,redacted,,redacted,38.2,,66.7,47.7,50,45.6,47.5,20.9,26.6,34.5,18
+143,Center Joint Unified (Sacramento),34-73973-0000000,31.3,52.6,18.9,58.1,27.3,15,30.2,40.5,35.9,34.1,35,11.9,23.1,29.3,35.7
+144,Centinela Valley Union High (Los Angeles),19-64352-0000000,redacted,48.8,12.1,21.4,14.7,14.3,5.7,19.4,14.2,16.2,15.1,3,12.1,24.2,60.8
+145,Central Elementary (San Bernardino),36-67645-0000000,redacted,70.9,26.5,61.1,32.6,16.7,42,47.8,38.8,38.8,38.8,14.3,24.5,31.8,29.4
+146,Central Unified (Fresno),10-73965-0000000,31.8,39.1,15.3,45.7,23.7,38.1,36.9,42.8,28.7,28.3,28.5,10,18.5,29.7,41.8
+147,Central Union Elementary (Kings),16-63883-0000000,13.6,46.2,27.7,61.4,31.6,redacted,39.3,53.3,39.6,37.9,38.7,14,24.7,29.6,31.8
+148,Central Union High (Imperial),13-63115-0000000,,83.3,redacted,,24.8,,redacted,40.6,29.1,23,26,6.3,19.7,23.6,50.4
+149,Centralia Elementary (Orange),30-66472-0000000,redacted,83,32.9,79.9,42,52.6,57.7,57.1,54.1,54.3,54.2,29.2,25,25.1,20.7
+150,Ceres Unified (Stanislaus),50-71043-0000000,15.4,42.6,10.6,45.7,18.6,35.2,21.3,23.6,20.4,20.8,20.6,5,15.6,32.3,47.1
+151,Chaffey Joint Union High (San Bernardino),36-67652-0000000,29.2,78.2,25.9,68.1,29.2,29,45,46.4,37.4,35.3,36.4,14.4,22,26,37.7
+152,Charter Oak Unified (Los Angeles),19-64378-0000000,33.3,75,30,70,34.8,75,54.9,52.2,43.1,39.8,41.5,17.9,23.6,28.8,29.7
+153,Chatom Union (Stanislaus),50-71050-0000000,,,,,20.4,redacted,redacted,42.7,28.7,24.4,26.5,8.3,18.2,33.5,40
+154,Chawanakee Unified (Madera),20-75606-0000000,8.8,redacted,redacted,,15.3,,16.7,33.2,27.3,23.4,25.3,8,17.3,33.6,41.1
+155,Chicago Park Elementary (Nevada),29-66316-0000000,redacted,redacted,,redacted,43.8,,redacted,45.1,45.8,39.6,43.3,12.5,30.8,30.8,25.8
+156,Chico Unified (Butte),04-61424-0000000,30.9,43,29.7,56.3,28.2,51.5,34.1,50.3,43.9,41.4,42.7,18.3,24.3,26.4,30.9
+157,Chino Valley Unified (San Bernardino),36-67678-0000000,9.1,81.2,33.4,70,31.9,32.1,62.7,52,44.7,45.4,45,21.6,23.5,27.7,27.3
+158,Chowchilla Elementary (Madera),20-65193-0000000,redacted,43.5,17.1,redacted,16.1,redacted,16.1,27.8,20.6,19.7,20.2,4.4,15.7,32,47.9
+159,Chowchilla Union High (Madera),20-65201-0000000,redacted,redacted,redacted,,11.5,,redacted,13,8.9,17.7,13.1,0.8,12.2,30.4,56.5
+160,Chualar Union (Monterey),27-65995-0000000,,,,,36.5,,,redacted,30.2,44.9,36.6,13.8,22.8,29.9,33.5
+161,Chula Vista Elementary (San Diego),37-68023-0000000,54.6,79,43,76.2,43.1,55.6,66.6,62.5,51.9,49.6,50.8,24.2,26.6,27.2,22.1
+162,Cienega Union Elementary (San Benito),35-67462-0000000,,,,,36.4,,,66.7,75,25,50,16.7,33.3,25,25
+163,Cinnabar Elementary (Sonoma),49-70649-0000000,,redacted,redacted,,25.5,redacted,redacted,41.7,33,29.3,31.2,7.1,24.1,28.2,40.6
+164,Claremont Unified (Los Angeles),19-64394-0000000,redacted,76.1,22.2,81,36.6,41.7,61.5,56.7,49.7,48.4,49,23.4,25.7,28.9,22.1
+165,Clay Joint Elementary (Fresno),10-62109-0000000,,redacted,,,56.3,,redacted,81.7,74.4,71.3,72.8,50.9,21.9,21.3,5.9
+166,Clear Creek Elementary (Nevada),29-66324-0000000,redacted,,,,redacted,,redacted,70.1,67.3,74.5,70.6,42.2,28.4,21.6,7.8
+167,Cloverdale Unified (Sonoma),49-70656-0000000,22.7,redacted,redacted,,16.2,,35,37.1,22.6,27.3,24.8,8,16.8,30.6,44.6
+168,Clovis Unified (Fresno),10-62117-0000000,45,65.9,38.5,79.9,45.5,58.5,64.5,63.3,56.5,56.7,56.6,28.1,28.4,25.8,17.6
+169,Coachella Valley Unified (Riverside),33-73676-0000000,11.3,redacted,6.7,redacted,16.6,,8.3,21.7,17,16.2,16.6,4.4,12.3,26,57.4
+170,Coalinga-Huron Unified (Fresno),10-62125-0000000,redacted,34.9,8.7,redacted,12.5,redacted,27.3,21.4,12.2,15.6,13.9,2.6,11.3,24.6,61.5
+171,Coast Unified (San Luis Obispo),40-75465-0000000,redacted,redacted,redacted,redacted,32.1,redacted,redacted,56.2,38.7,42.4,40.5,17.8,22.8,34.3,25.2
+172,Coffee Creek Elementary (Trinity),53-71670-0000000,,,,,redacted,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+173,Cold Spring Elementary (Santa Barbara),42-69161-0000000,,redacted,redacted,,redacted,,redacted,80.8,92.7,72.6,81.5,57.6,23.9,16.3,2.2
+174,Colfax Elementary (Placer),31-66795-0000000,redacted,redacted,redacted,,52.4,,50,41.7,45.6,40,42.9,18.2,24.6,31,26.1
+175,College Elementary (Santa Barbara),42-69179-0000000,redacted,redacted,,redacted,29.7,redacted,redacted,47.2,38.2,32.8,35.7,16.8,18.9,32.9,31.5
+176,Colton Joint Unified (San Bernardino),36-67686-0000000,15.8,46.2,15.3,50,21.9,14.8,38.3,31,23.1,22.7,22.9,7.5,15.4,28,49.1
+177,Columbia Elementary (Shasta),45-69948-0000000,31.3,redacted,redacted,,38.7,,41.7,49.3,46.8,45.9,46.4,20.4,26,32.8,20.8
+178,Columbia Union (Tuolumne),55-72348-0000000,redacted,redacted,redacted,redacted,28.6,redacted,,33.3,33.8,32,33.1,9.7,23.4,32.2,34.8
+179,Columbine Elementary (Tulare),54-71852-0000000,,redacted,redacted,redacted,48.7,,redacted,redacted,48.3,55.6,52.3,22,30.3,31.8,15.9
+180,Colusa County Office of Education (Colusa),06-10066-0000000,redacted,,,redacted,redacted,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+181,Colusa Unified (Colusa),06-61598-0000000,25,redacted,redacted,,27.7,redacted,33.3,47.7,31,35,32.9,9.9,23.1,27.1,40
+182,Compton Unified (Los Angeles),19-73437-0000000,6.7,redacted,16.3,redacted,26.4,36.6,23.7,20.3,23.8,25.5,24.6,9.5,15.2,24.7,50.8
+183,Conejo Valley Unified (Ventura),56-73759-0000000,55.2,87.4,47.7,63.2,31.2,54.2,73.6,66.4,59.9,58.3,59.1,31.7,27.5,23.1,17.7
+184,Contra Costa County Office of Education (Contra Costa),07-10074-0000000,,redacted,2.1,redacted,0,,redacted,3,0.9,7.7,2.1,0.7,1.4,7.6,90.3
+185,Corcoran Joint Unified (Kings),16-63891-0000000,redacted,redacted,12,redacted,16.9,,,22.3,16.7,17.6,17.2,4.3,12.9,29.9,53
+186,Corning Union Elementary (Tehama),52-71498-0000000,22.7,27.8,46.2,redacted,17.6,redacted,redacted,26.6,21.3,20.4,20.8,6.2,14.6,30.3,48.9
+187,Corning Union High (Tehama),52-71506-0000000,redacted,redacted,redacted,redacted,10.5,,,26.1,14.8,17.9,16.5,3.5,13,26.4,57.1
+188,Corona-Norco Unified (Riverside),33-67033-0000000,50,75.3,34.9,69.6,34.8,49.1,61.5,55.1,45.4,45.6,45.5,20.4,25.1,27.8,26.7
+189,Coronado Unified (San Diego),37-68031-0000000,redacted,84.8,45.8,71.4,56.5,63.6,66,69.2,66.1,66.5,66.3,38.2,28.1,22.1,11.7
+190,Cotati-Rohnert Park Unified (Sonoma),49-73882-0000000,15.4,46.6,20.6,46.2,21.7,33.3,39.9,39.1,33,29.3,31.1,9.9,21.3,31.7,37.2
+191,Cottonwood Union Elementary (Shasta),45-69955-0000000,40.6,46.7,redacted,redacted,27.3,redacted,37.5,42.8,39.1,41,40.1,13.6,26.6,30.8,29
+192,Covina-Valley Unified (Los Angeles),19-64436-0000000,23.8,67.6,29.2,53.3,32.3,38.5,40.9,40.2,36.1,34.7,35.4,13.8,21.6,30.5,34.1
+193,Cucamonga Elementary (San Bernardino),36-67694-0000000,redacted,38.6,19,46.3,23.4,redacted,25,35.7,25,25.1,25.1,7.7,17.4,29.6,45.4
+194,Cuddeback Union Elementary (Humboldt),12-62737-0000000,redacted,,,,redacted,,redacted,29.1,36.8,33.3,35.1,6.5,28.6,39,26
+195,Culver City Unified (Los Angeles),19-64444-0000000,38.5,81.5,36.4,56.5,41.9,42.9,72.4,71.8,55.5,55.8,55.6,32.1,23.5,22.2,22.2
+196,Curtis Creek Elementary (Tuolumne),55-72355-0000000,redacted,redacted,redacted,redacted,25.5,,redacted,33.3,32.7,31.7,32.3,13.3,19,30.8,36.9
+197,Cutler-Orosi Joint Unified (Tulare),54-71860-0000000,redacted,redacted,redacted,53.7,27.3,redacted,redacted,35.5,25.6,30.8,28.2,10.9,17.2,23.7,48.2
+198,Cutten Elementary (Humboldt),12-62745-0000000,29.4,42.9,redacted,redacted,30.2,redacted,35.3,50,45.2,39.9,42.5,16.2,26.4,34.4,23.1
+199,Cuyama Joint Unified (Santa Barbara),42-75010-0000000,,redacted,,,12.6,,redacted,13,13.1,13.3,13.2,1.7,11.6,35.5,51.2
+200,Cypress Elementary (Orange),30-66480-0000000,,84,39.4,69.7,45.2,69.2,60.7,55,64,61.9,62.9,35.9,27,23,14.1
+201,Davis Joint Unified (Yolo),57-72678-0000000,42.1,83.5,31.9,78.4,34.3,83.3,76,70.8,63.7,65.3,64.5,38.4,26,19.9,15.6
+202,Death Valley Unified (Inyo),14-63271-0000000,,,redacted,,redacted,,redacted,redacted,redacted,redacted,25,8.3,16.7,16.7,58.3
+203,Dehesa Elementary (San Diego),37-68049-0000000,redacted,,redacted,redacted,13.8,,53.3,35.3,27.3,38,32.4,12.4,20,35.2,32.4
+204,Del Norte County Office of Education (Del Norte),08-10082-0000000,7.7,redacted,redacted,,0,,7.1,9.1,11.6,3.3,7.3,1.7,5.7,17.5,75.1
+205,Del Norte County Unified (Del Norte),08-61820-0000000,17,27.6,18.2,31.6,16.1,redacted,32.1,28.8,24.1,24.3,24.2,7.2,17,29.7,46.2
+206,Delano Joint Union High (Kern),15-63412-0000000,,redacted,redacted,52.3,27.9,redacted,redacted,16.7,31.5,30,30.8,11.9,18.9,26.6,42.6
+207,Delano Union Elementary (Kern),15-63404-0000000,redacted,51.7,26.7,47.4,20.6,redacted,42.3,17.8,24.2,23.1,23.7,8.2,15.5,27.7,48.6
+208,Delhi Unified (Merced),24-75366-0000000,,41.7,redacted,redacted,23.3,redacted,redacted,21.4,23.5,23.8,23.6,6.2,17.5,33.6,42.7
+209,Delphic Elementary (Siskiyou),47-70227-0000000,redacted,,,,redacted,,redacted,25,22.7,16.7,20.6,2.9,17.7,32.4,47.1
+210,Denair Unified (Stanislaus),50-71068-0000000,redacted,redacted,redacted,,9.2,redacted,28.6,15.2,11.2,15.5,13.3,2.2,11.1,32.6,54.1
+211,Desert Center Unified (Riverside),33-67041-0000000,,,,,redacted,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+212,Desert Sands Unified (Riverside),33-67058-0000000,36.8,73.5,27.5,63.3,27.8,64.3,57.9,54.9,35.4,34.4,34.9,14.9,20,28.8,36.4
+213,Di Giorgio Elementary (Kern),15-63420-0000000,,,,,13.4,,,redacted,9.8,17.9,13.4,0.7,12.8,22.2,64.4
+214,Dinuba Unified (Tulare),54-75531-0000000,28.6,41.3,16.7,37,24.9,redacted,,32.4,26.1,24.8,25.5,8.8,16.7,27.3,47.2
+215,Dixie Elementary (Marin),21-65318-0000000,redacted,83,43.5,84.6,28.7,redacted,68,75.3,68.9,66.6,67.8,40.7,27.1,20.6,11.5
+216,Dixon Unified (Solano),48-70532-0000000,redacted,47.4,0,66.7,25,redacted,38.6,39.4,31.2,29.9,30.6,10.7,19.9,31.5,37.9
+217,Dos Palos Oro Loma Joint Unified (Merced),24-75317-0000000,12.1,redacted,5.6,redacted,13.3,redacted,redacted,23.3,14.3,14.6,14.5,3.9,10.5,25.5,60
+218,Douglas City Elementary (Trinity),53-71696-0000000,,redacted,,,78.6,,52.6,69.1,71,65.7,68.2,46.2,22,20.5,11.4
+219,Downey Unified (Los Angeles),19-64451-0000000,21.4,73.3,23.1,65.8,36,38.1,48.4,45,36.4,37.8,37.1,14.5,22.6,30.1,32.8
+220,Dry Creek Joint Elementary (Placer),31-66803-0000000,37.9,57.3,26.1,64.9,31.9,26.9,48.5,49.9,46.3,45.5,45.9,20.1,25.8,29.1,25.1
+221,Duarte Unified (Los Angeles),19-64469-0000000,redacted,62.1,23.4,57.9,31.4,redacted,57.9,44.4,35.2,34.9,35,15.3,19.7,28.6,36.4
+222,Dublin Unified (Alameda),01-75093-0000000,redacted,88.3,33.3,70.8,45.7,redacted,68.4,63.7,73.2,72.6,72.9,48.5,24.4,16.9,10.2
+223,Ducor Union Elementary (Tulare),54-71894-0000000,,,,,17.7,,,redacted,17.7,16.7,17.2,2.5,14.8,32,50.8
+224,Dunham Elementary (Sonoma),49-70672-0000000,,,,,63.2,,redacted,69.2,70.2,61.4,65.9,20.9,45.1,25.3,8.8
+225,Dunsmuir Elementary (Siskiyou),47-70243-0000000,redacted,,,,47.1,,redacted,25,41.9,16.1,29,12.9,16.1,41.9,29
+226,Dunsmuir Joint Union High (Siskiyou),47-70250-0000000,redacted,,redacted,,redacted,,redacted,redacted,redacted,0,0,0,0,18.8,81.3
+227,Durham Unified (Butte),04-61432-0000000,redacted,redacted,redacted,redacted,20.2,,58.3,50.4,45.3,43,44.3,17.8,26.5,30.8,24.9
+228,Earlimart Elementary (Tulare),54-71902-0000000,,redacted,redacted,40,15.7,,redacted,redacted,14.2,17.6,15.9,5.1,10.8,25,59.1
+229,East Nicolaus Joint Union High (Sutter),51-71373-0000000,redacted,redacted,,,20.8,redacted,redacted,27.1,33.3,23.7,28.6,7.8,20.8,27.3,44.2
+230,East Side Union High (Santa Clara),43-69427-0000000,7.1,69,18.5,38.5,16,16.7,48,48.6,40.3,42,41.1,20.3,20.9,21.8,37.1
+231,East Whittier City Elementary (Los Angeles),19-64485-0000000,redacted,67.1,45.5,66.1,41.9,72.7,70.5,59.7,43.7,46,44.8,19.8,25,29,26.3
+232,Eastern Sierra Unified (Mono),26-73668-0000000,6.3,,redacted,redacted,19.3,redacted,redacted,38.5,30.6,25.7,28.2,8.5,19.7,32.4,39.4
+233,Eastside Union Elementary (Los Angeles),19-64477-0000000,redacted,46.2,5.9,37,15.3,redacted,15.9,23.8,13.8,14.4,14.1,3.5,10.6,27.4,58.5
+234,Edison Elementary (Kern),15-63438-0000000,redacted,redacted,7.1,,28.9,,redacted,17.3,23.1,31.2,27.2,10.2,17,25.4,47.4
+235,El Centro Elementary (Imperial),13-63123-0000000,redacted,66.7,14.3,,30.3,redacted,58.3,49.5,32.8,29.1,31,10.9,20.1,32.3,36.7
+236,El Dorado County Office of Education (El Dorado),09-10090-0000000,redacted,redacted,0,,18.3,redacted,32,27.2,24.1,26.2,25.1,9.3,15.8,23.6,51.3
+237,El Dorado Union High (El Dorado),09-61853-0000000,41.7,74.1,46.7,70,37.9,redacted,68.4,56.8,52.8,57.3,55,23.3,31.6,21.5,23.5
+238,El Monte City (Los Angeles),19-64501-0000000,redacted,69.6,27.3,63.2,23.6,redacted,redacted,47,33.2,32.4,32.8,15.1,17.7,27.1,40.1
+239,El Monte Union High (Los Angeles),19-64519-0000000,,70.1,redacted,44.4,18.5,,redacted,16.7,31,30.5,30.7,12.3,18.4,26.4,42.9
+240,El Nido Elementary (Merced),24-65680-0000000,redacted,,,,20,,,33.3,29.4,14.3,21.5,4.7,16.8,43.9,34.6
+241,El Rancho Unified (Los Angeles),19-64527-0000000,redacted,redacted,25,63.2,26.1,redacted,redacted,21.7,25.2,27.5,26.3,9.5,16.8,29.6,44
+242,El Segundo Unified (Los Angeles),19-64535-0000000,redacted,78.5,49.3,83.3,46.1,25,69.3,66.9,65.9,61.3,63.6,33.7,30,23.4,12.9
+243,El Tejon Unified (Kern),15-75168-0000000,23.1,redacted,redacted,redacted,26.7,redacted,redacted,28.4,27.6,30.8,29.1,11.1,18,27.8,43
+244,Elk Grove Unified (Sacramento),34-67314-0000000,34.2,57,20.6,61.7,30.4,33.5,48.7,56.1,44.3,44,44.2,20.9,23.3,26.8,29
+245,Elk Hills Elementary (Kern),15-63446-0000000,redacted,,redacted,,17.7,,redacted,18.8,13.6,21.5,17.7,6.5,11.3,31.5,50.8
+246,Elkins Elementary (Tehama),52-71514-0000000,,,,,redacted,,redacted,redacted,redacted,redacted,27.3,18.2,9.1,18.2,54.6
+247,Elverta Joint Elementary (Sacramento),34-67322-0000000,redacted,redacted,10.5,redacted,8.3,redacted,20,23.7,19.7,17.7,18.9,3.8,15.1,28.7,52.4
+248,Emery Unified (Alameda),01-61168-0000000,redacted,34.2,14.5,redacted,25.3,redacted,redacted,35.9,22.2,20.7,21.4,7.4,14,27.1,51.6
+249,Empire Union Elementary (Stanislaus),50-71076-0000000,25,39.3,18,60,25.4,16.7,37.5,35,27.8,29.3,28.6,10.3,18.3,29.1,42.4
+250,Encinitas Union Elementary (San Diego),37-68080-0000000,57.1,86.8,66.7,84.2,50.3,redacted,81,79,74.4,72,73.2,43.2,30,17.4,9.5
+251,Enterprise Elementary (Shasta),45-69971-0000000,16.9,38.5,13.5,redacted,25.3,redacted,35.1,40.4,36.6,35,35.8,14.1,21.8,30.8,33.3
+252,Escalon Unified (San Joaquin),39-68502-0000000,redacted,39.1,redacted,redacted,20.3,redacted,33.3,43.3,30,32.1,31,10.4,20.6,32.7,36.3
+253,Escondido Union (San Diego),37-68098-0000000,31.8,59.3,20.5,51.6,20.7,45.5,42.7,48.5,26.7,26.5,26.6,9.5,17.1,30.4,43
+254,Escondido Union High (San Diego),37-68106-0000000,redacted,68.7,20.5,47.5,16.6,redacted,18.2,48.7,25.1,26.3,25.7,9.8,15.9,24.5,49.9
+255,Esparto Unified (Yolo),57-72686-0000000,redacted,redacted,redacted,redacted,12.4,,redacted,25.2,16.5,14.8,15.7,3.3,12.4,25.4,58.8
+256,Etiwanda Elementary (San Bernardino),36-67702-0000000,42.1,81,40.7,78.1,49,40,62.2,67.6,58.2,57.7,57.9,31.9,26,26.5,15.6
+257,Eureka City Schools (Humboldt),12-75515-0000000,16,22.1,21.3,36.4,16.8,17.1,18.2,30.9,25.2,23.8,24.5,9.1,15.5,30,45.4
+258,Eureka Union (Placer),31-66829-0000000,47.1,84,44,65,50.8,redacted,69.3,66.1,65.6,65.6,65.6,35.1,30.5,24.5,9.9
+259,Evergreen Elementary (Santa Clara),43-69435-0000000,47.6,80.1,32.5,52.3,21.5,31.6,62.8,61.7,59.7,61.5,60.6,39.1,21.5,19.3,20.1
+260,Evergreen Union (Tehama),52-71522-0000000,26.7,redacted,redacted,redacted,35.1,redacted,45.2,40.6,40.2,38.2,39.3,16.5,22.8,31.2,29.5
+261,Exeter Unified (Tulare),54-76836-0000000,28.6,redacted,redacted,redacted,23.2,,redacted,34.1,27.7,27.3,27.5,8.6,18.9,30.7,41.8
+262,Fairfax Elementary (Kern),15-63461-0000000,redacted,12.5,8.5,redacted,17.2,,18.2,18.9,17.9,16.2,17.1,5,12.1,25.7,57.3
+263,Fairfield-Suisun Unified (Solano),48-70540-0000000,30.5,53.8,16.4,50.8,22.2,23.6,40.2,45.1,30.6,31.7,31.2,13.1,18.1,26.8,42.1
+264,Fall River Joint Unified (Shasta),45-69989-0000000,23.5,redacted,redacted,redacted,21,redacted,22.6,38.6,30.6,32.8,31.7,12.8,18.9,32.7,35.5
+265,Fallbrook Union Elementary (San Diego),37-68114-0000000,redacted,83.3,42.2,59.1,35.1,redacted,52.1,62.9,44.9,44.3,44.6,20,24.6,28.4,27
+266,Fallbrook Union High (San Diego),37-68122-0000000,redacted,redacted,redacted,redacted,17.1,redacted,redacted,33.3,20.6,25.5,23,7.3,15.6,23.4,53.7
+267,Farmersville Unified (Tulare),54-75325-0000000,redacted,redacted,redacted,redacted,11.7,,redacted,15.9,12.7,11.3,12,2.1,10,24.6,63.4
+268,Feather Falls Union Elementary (Butte),04-61440-0000000,redacted,,redacted,,redacted,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+269,Ferndale Unified (Humboldt),12-75374-0000000,redacted,redacted,,,12.1,redacted,redacted,38.6,31.5,34.1,32.7,8.7,24,33.1,34.2
+270,Fieldbrook Elementary (Humboldt),12-62794-0000000,redacted,redacted,redacted,,redacted,,53.9,50.8,50,47.8,48.9,18.9,30,42.2,8.9
+271,Fillmore Unified (Ventura),56-72454-0000000,redacted,redacted,redacted,redacted,15.2,,46.2,42.6,17.4,16.9,17.2,4,13.2,26.5,56.4
+272,Firebaugh-Las Deltas Unified (Fresno),10-73809-0000000,,redacted,redacted,,22.6,,,18.5,22.9,21.6,22.2,4.2,18,30.6,47.2
+273,Flournoy Union Elementary (Tehama),52-71530-0000000,,,,,redacted,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+274,Folsom-Cordova Unified (Sacramento),34-67330-0000000,36,80.5,20,67.4,29.4,27.5,47.2,55,52.2,50.9,51.6,27.3,24.3,24.8,23.7
+275,Fontana Unified (San Bernardino),36-67710-0000000,11.8,52.3,13.7,58,18.4,19.6,29.5,30.1,19.7,19.2,19.5,5.8,13.7,30.6,49.9
+276,Foresthill Union Elementary (Placer),31-66837-0000000,redacted,redacted,redacted,redacted,29.7,redacted,redacted,41.3,42.9,33.3,37.8,12,25.7,35.7,26.6
+277,Forestville Union Elementary (Sonoma),49-70680-0000000,redacted,redacted,,,13.3,redacted,11.1,34.3,25.5,29.2,27.4,8.4,19,31.4,41.2
+278,Forks of Salmon Elementary (Siskiyou),47-70292-0000000,,,,,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+279,Fort Bragg Unified (Mendocino),23-65565-0000000,redacted,redacted,redacted,redacted,18,,26.5,29.7,24.2,24.4,24.3,7.3,17.1,31.6,44.1
+280,Fort Ross Elementary (Sonoma),49-70698-0000000,,,,,redacted,,,redacted,redacted,redacted,38.5,0,38.5,30.8,30.8
+281,Fort Sage Unified (Lassen),18-75036-0000000,redacted,,redacted,,8.3,redacted,7.7,16.8,14.5,15,14.8,3.5,11.3,31,54.2
+282,Fortuna Elementary (Humboldt),12-76802-0000000,21.1,redacted,redacted,redacted,14.8,,28.6,32.2,23.9,25,24.5,6.9,17.6,32.7,42.8
+283,Fortuna Union High (Humboldt),12-62810-0000000,redacted,redacted,,,11.8,redacted,20,26.7,19.6,26.9,23.4,5.2,18.2,29,47.6
+284,Fountain Valley Elementary (Orange),30-66498-0000000,58.3,83.7,33.3,76.7,53,27.3,74,65.6,68.9,72,70.4,43.3,27.1,20.3,9.2
+285,Fowler Unified (Fresno),10-62158-0000000,redacted,52.1,redacted,,23.6,,redacted,53.7,29,29.6,29.3,10.6,18.7,30.2,40.5
+286,Franklin Elementary (Sutter),51-71381-0000000,redacted,70,redacted,,40.5,,63,67.7,60.2,61.7,60.9,27.5,33.3,23.9,15.3
+287,Franklin-McKinley Elementary (Santa Clara),43-69450-0000000,redacted,65.8,26,52.2,22.4,26.3,51.9,54.9,39.9,38.9,39.4,19.7,19.7,26.2,34.4
+288,Fremont Unified (Alameda),01-61176-0000000,53.2,87.3,27.7,61.7,31.4,34,65.5,54.9,71,72,71.5,52,19.5,15.2,13.3
+289,Fremont Union High (Santa Clara),43-69468-0000000,redacted,92.6,23.8,52.4,23.6,redacted,81.5,73.7,76.1,78.7,77.4,58.1,19.3,10.9,11.8
+290,French Gulch-Whiskeytown Elementary (Shasta),45-69997-0000000,,,,,redacted,,redacted,redacted,27.3,redacted,22.2,5.6,16.7,44.4,33.3
+291,Freshwater Elementary (Humboldt),12-62828-0000000,redacted,redacted,,,38.1,,27.8,63.5,54.5,60.2,57.1,25.7,31.4,31,11.9
+292,Fresno County Office of Education (Fresno),10-10108-0000000,redacted,redacted,0,redacted,0,,redacted,0,0,0,0,0,0,5.4,94.6
+293,Fresno Unified (Fresno),10-62166-0000000,19.1,31.2,14,47.3,21.5,30.7,31.3,42.3,24.2,24.1,24.1,8.3,15.8,27,48.8
+294,Fruitvale Elementary (Kern),15-63479-0000000,50,69,42.9,81.6,41.3,redacted,46.6,52.2,51,45.2,48.1,22.2,25.9,29.7,22.2
+295,Fullerton Elementary (Orange),30-66506-0000000,28.1,81.8,26.9,69.4,29.5,18.2,63.2,59.1,49.1,48.7,48.9,27.1,21.7,25.3,25.8
+296,Fullerton Joint Union High (Orange),30-66514-0000000,redacted,84.7,18.1,67.3,27.3,38.5,69.6,50,44.2,44.9,44.5,23.2,21.3,21.9,33.6
+297,Galt Joint Union Elementary (Sacramento),34-67348-0000000,redacted,51.8,27.8,29.2,28.2,31.3,43.2,48.8,35.6,36.2,35.9,13.5,22.4,31.6,32.5
+298,Galt Joint Union High (Sacramento),34-67355-0000000,,redacted,redacted,redacted,24.7,redacted,50,38.4,30.1,32.2,31.1,10.1,21.1,26,42.9
+299,Garden Grove Unified (Orange),30-66522-0000000,21.1,75.6,26.8,63.7,26.9,27.2,62.9,50.4,47,47,47,23.6,23.4,25.5,27.5
+300,Garfield Elementary (Humboldt),12-62836-0000000,redacted,,redacted,,redacted,,redacted,50,61.1,45.5,52.5,27.5,25,20,27.5
+301,Garvey Elementary (Los Angeles),19-64550-0000000,redacted,69.1,38.5,72,27.1,,66.7,36.4,53,51.9,52.5,30.8,21.7,22.1,25.5
+302,Gateway Unified (Shasta),45-75267-0000000,14.5,44.7,13.6,redacted,20.9,redacted,32.7,24.7,24.4,24.3,24.4,8.5,15.9,32.8,42.8
+303,Gazelle Union Elementary (Siskiyou),47-70318-0000000,redacted,,redacted,,redacted,,redacted,redacted,0,redacted,10,0,10,30,60
+304,General Shafter Elementary (Kern),15-63487-0000000,,redacted,,,40,,,36.4,44.2,38,40.9,20.4,20.4,30.1,29
+305,Gerber Union Elementary (Tehama),52-71548-0000000,redacted,redacted,,,11.5,,redacted,21.1,14.3,12,13.3,2.6,10.7,32.1,54.6
+306,Geyserville Unified (Sonoma),49-70706-0000000,,redacted,redacted,,18.3,,redacted,51.1,38.7,21.4,29.6,7.6,22,32.6,37.9
+307,Gilroy Unified (Santa Clara),43-69484-0000000,57.6,76.1,58.9,65.6,31.9,redacted,59.8,59.1,38.5,42.2,40.3,18.8,21.5,26.7,33
+308,Glendale Unified (Los Angeles),19-64568-0000000,50,80.3,32.4,60.3,31.3,27.8,67.2,50.4,49.9,51.1,50.5,26.3,24.2,25.9,23.7
+309,Glendora Unified (Los Angeles),19-64576-0000000,redacted,87.5,37,72.7,45.2,redacted,71.9,59.8,56.9,55.3,56.1,29.4,26.7,26.5,17.4
+310,Glenn County Office of Education (Glenn),11-10116-0000000,redacted,,,,4.8,,redacted,16.7,4.6,14.8,10.2,0,10.2,24.5,65.3
+311,Gold Oak Union Elementary (El Dorado),09-61879-0000000,redacted,redacted,redacted,,25,redacted,redacted,41.4,38.8,39.8,39.3,12.8,26.5,35.8,24.9
+312,Gold Trail Union Elementary (El Dorado),09-61887-0000000,redacted,redacted,redacted,redacted,18.8,redacted,52.9,46.6,44.6,41.3,43,16.8,26.2,26.6,30.4
+313,Golden Feather Union Elementary (Butte),04-61457-0000000,redacted,,,,redacted,,redacted,13.3,16.2,21.4,18.5,4.6,13.9,21.5,60
+314,Golden Plains Unified (Fresno),10-75234-0000000,redacted,redacted,redacted,,15.5,,,8.3,14.9,15.6,15.2,4.2,11.1,24.9,59.9
+315,Golden Valley Unified (Madera),20-75580-0000000,50,52.2,41.7,redacted,37.7,redacted,43.8,50.9,46.1,44.1,45.2,18.7,26.5,29.6,25.3
+316,Goleta Union Elementary (Santa Barbara),42-69195-0000000,redacted,81.2,37.5,68.4,39.1,,74.5,79.3,58.7,57.2,58,33.7,24.3,22.7,19.4
+317,Gonzales Unified (Monterey),27-75473-0000000,redacted,,redacted,redacted,15.4,redacted,redacted,11.5,15.1,16.2,15.7,2.9,12.8,30.7,53.6
+318,Gorman Joint (Los Angeles),19-64584-0000000,,,redacted,,39.3,redacted,redacted,33.3,38.7,31.3,34.9,12.7,22.2,33.3,31.8
+319,Grant Elementary (Shasta),45-70003-0000000,33.3,redacted,redacted,redacted,55.6,,69.6,71.4,71.1,65.4,68.2,33.6,34.6,22.8,9
+320,Grass Valley Elementary (Nevada),29-66332-0000000,30,40,redacted,redacted,26.1,,60,42.6,42.1,37.4,39.7,16,23.7,30.2,30.1
+321,Gratton Elementary (Stanislaus),50-71084-0000000,redacted,redacted,redacted,redacted,33.3,,redacted,60.6,59.5,46.8,52.8,22.5,30.3,32.6,14.6
+322,Gravenstein Union Elementary (Sonoma),49-70714-0000000,,94.1,redacted,redacted,47,,67.5,65.5,60.8,66,63.4,37.2,26.2,21.7,14.8
+323,Graves Elementary (Monterey),27-66027-0000000,,redacted,,,45.5,redacted,redacted,redacted,50,47.1,48.3,31,17.2,37.9,13.8
+324,Green Point Elementary (Humboldt),12-62851-0000000,,,,,,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+325,Greenfield Union (Kern),15-63503-0000000,37.5,42.3,23.2,36,32.6,redacted,32.8,36.6,32.5,32.4,32.4,10.8,21.6,32.4,35.1
+326,Greenfield Union Elementary (Monterey),27-66035-0000000,,redacted,redacted,redacted,18.1,redacted,redacted,13.8,18.8,17.8,18.3,5.3,13,25.2,56.4
+327,Grenada Elementary (Siskiyou),47-70326-0000000,redacted,,redacted,,16.7,,redacted,38.4,37.7,33.9,35.8,11.7,24.2,28.3,35.8
+328,Gridley Unified (Butte),04-75507-0000000,redacted,41.7,redacted,,26.6,redacted,redacted,38.9,30.6,30.8,30.7,9.5,21.3,33.4,35.9
+329,Grossmont Union High (San Diego),37-68130-0000000,20,51.3,18.5,66.7,27.1,33.3,48.5,42.4,35.3,38.1,36.7,12.6,24.1,24.3,39
+330,Guadalupe Union Elementary (Santa Barbara),42-69203-0000000,redacted,,redacted,redacted,7.7,,redacted,redacted,8.6,6.8,7.7,1.3,6.4,29,63.3
+331,Guerneville Elementary (Sonoma),49-70722-0000000,redacted,,redacted,redacted,23.8,,redacted,42.6,39.5,28,33.3,15.1,18.3,28.5,38.2
+332,Gustine Unified (Merced),24-73619-0000000,redacted,redacted,redacted,redacted,16,redacted,redacted,25,17.9,16.8,17.4,4.4,12.9,25.7,56.9
+333,Hacienda la Puente Unified (Los Angeles),19-73445-0000000,redacted,79.1,25.9,58,30.1,34.4,65.2,47.6,37.1,38.7,37.9,17.4,20.6,28.2,33.9
+334,Hamilton Unified (Glenn),11-76562-0000000,redacted,redacted,redacted,,16.6,,redacted,redacted,18.3,18.3,18.3,4.1,14.2,28,53.7
+335,Hanford Elementary (Kings),16-63917-0000000,10.5,34.9,21.1,71.1,28.8,redacted,45.8,47.1,31.3,32.6,32,12.7,19.3,29.5,38.6
+336,Hanford Joint Union High (Kings),16-63925-0000000,redacted,64.3,10,redacted,18.4,redacted,redacted,30.5,19.9,25.2,22.5,6.3,16.2,27.3,50.2
+337,Happy Camp Union Elementary (Siskiyou),47-70334-0000000,20.8,,,,redacted,,redacted,22.7,25.8,19.4,22.6,4.8,17.7,33.9,43.6
+338,Happy Valley Elementary (Santa Cruz),44-69757-0000000,redacted,redacted,,,redacted,,72.7,76.9,73.5,67.6,70.4,29.6,40.9,23.9,5.6
+339,Happy Valley Union Elementary (Shasta),45-70011-0000000,30,22.2,redacted,redacted,29,redacted,16.7,36.3,34.9,30.5,32.8,12.6,20.3,33.4,33.7
+340,Harmony Union Elementary (Sonoma),49-70730-0000000,redacted,redacted,redacted,,36.8,,60,50.5,41,56.3,48.1,24.7,23.4,31.2,20.8
+341,Hart-Ransom Union Elementary (Stanislaus),50-71092-0000000,redacted,55.6,22.2,redacted,28.4,redacted,33.3,38.1,35.8,32.6,34.2,9.9,24.2,33.3,32.5
+342,Hawthorne (Los Angeles),19-64592-0000000,38.5,61.1,25.8,57.3,32.1,24.2,36.4,47.7,32.5,31.4,31.9,12.3,19.7,29.4,38.7
+343,Hayward Unified (Alameda),01-61192-0000000,20.5,46.7,15.2,45.5,19,18.7,40.3,29.2,23.9,23.3,23.6,8.9,14.7,27.7,48.7
+344,Healdsburg Unified (Sonoma),49-75390-0000000,redacted,58.3,redacted,,21.3,redacted,redacted,56.5,35.4,32.9,34.2,13,21.2,30,35.8
+345,Heber Elementary (Imperial),13-63131-0000000,,,,,44.9,,redacted,redacted,44.3,45.7,45,14.7,30.3,31.7,23.3
+346,Helendale Elementary (San Bernardino),36-67736-0000000,redacted,redacted,19.1,redacted,20.8,redacted,43.5,31.8,28.7,26.3,27.5,8.6,18.9,28.7,43.8
+347,Hemet Unified (Riverside),33-67082-0000000,19.5,55.8,9.7,49.5,19.7,23.3,25.4,33.5,23.3,23.6,23.4,7.6,15.8,28.5,48.1
+348,Hermosa Beach City Elementary (Los Angeles),19-64600-0000000,redacted,88.6,redacted,redacted,59,redacted,78.3,74.4,74.7,71.7,73.3,42.5,30.8,18.7,8.1
+349,Hesperia Unified (San Bernardino),36-75044-0000000,19.4,43.8,9.7,36.4,18,36,12.8,27.8,21.1,21.2,21.2,6.2,15,27.8,51.1
+350,Hickman Community Charter (Stanislaus),50-71100-0000000,redacted,68.8,redacted,redacted,43.2,redacted,55.6,52.4,50.5,50.5,50.5,21.9,28.6,27.6,21.9
+351,Hillsborough City Elementary (San Mateo),41-68908-0000000,redacted,92.5,redacted,redacted,81.1,redacted,84,78.1,82.6,81.8,82.2,59.9,22.3,12.9,4.8
+352,Hilmar Unified (Merced),24-65698-0000000,redacted,redacted,redacted,redacted,10.9,redacted,redacted,26.8,17.6,21.5,19.5,6.3,13.2,30,50.4
+353,Hollister (San Benito),35-67470-0000000,15.4,69.6,20,62.5,31,redacted,61.1,51.2,34,36.3,35.1,13.8,21.3,30.6,34.3
+354,Holtville Unified (Imperial),13-63149-0000000,,,redacted,,37.3,,45.5,53.9,38.7,39.1,38.9,15.2,23.8,32.2,28.9
+355,Hope Elementary (Santa Barbara),42-69211-0000000,,79,redacted,redacted,25.5,redacted,60,73,54.8,58.7,56.7,36.4,20.3,27.1,16.2
+356,Hope Elementary (Tulare),54-71944-0000000,,redacted,,,7.7,,redacted,28.1,17.1,12.7,15,2.6,12.4,44.4,40.5
+357,Horicon Elementary (Sonoma),49-70763-0000000,redacted,,,,12,,redacted,28.6,18.2,15,16.7,7.1,9.5,35.7,47.6
+358,Hornbrook Elementary (Siskiyou),47-70359-0000000,redacted,,,,redacted,,16.7,14.3,7.1,18.2,13.9,8.3,5.6,38.9,47.2
+359,Hot Springs Elementary (Tulare),54-71951-0000000,,,,,redacted,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+360,Howell Mountain Elementary (Napa),28-66258-0000000,redacted,redacted,redacted,,20.7,,redacted,60,43.3,25,35.2,13,22.2,35.2,29.6
+361,Hueneme Elementary (Ventura),56-72462-0000000,18.5,46.7,22.9,47.2,17,29.4,44.6,30.9,20.6,19.4,20,5.9,14,29.7,50.4
+362,Hughes-Elizabeth Lakes Union Elementary (Los Angeles),19-64626-0000000,redacted,redacted,,,29.4,,redacted,38.4,44.3,26.9,36.3,8,28.3,39.8,23.9
+363,Hughson Unified (Stanislaus),50-75549-0000000,redacted,redacted,redacted,redacted,24.4,redacted,36.4,39.3,31.8,29.7,30.8,9.7,21.1,33.7,35.6
+364,Humboldt County Office of Education (Humboldt),12-10124-0000000,redacted,,redacted,,redacted,,redacted,0,0,0,0,0,0,2,98
+365,Huntington Beach City Elementary (Orange),30-66530-0000000,53.9,89.9,38.1,67.5,49,64.3,77.4,70.8,68.2,69.7,68.9,39.7,29.2,20.1,11
+366,Huntington Beach Union High (Orange),30-66548-0000000,34.5,73.9,31,47.5,30.1,30.4,59.1,54.3,51.1,54.6,52.8,24,28.8,22.6,24.6
+367,Hydesville Elementary (Humboldt),12-62885-0000000,,redacted,,,41.7,,redacted,55.9,52.9,55.4,54,18.3,35.7,25.4,20.6
+368,"Igo, Ono, Platina Union Elementary (Shasta)",45-70029-0000000,,redacted,redacted,,redacted,redacted,,41.7,45.5,0,20.8,12.5,8.3,33.3,45.8
+369,Imperial County Office of Education (Imperial),13-10132-0000000,,,redacted,,0,,,redacted,0,0,0,0,0,5.8,94.2
+370,Imperial Unified (Imperial),13-63164-0000000,redacted,61.5,17.4,61.9,37.4,redacted,41.2,53.6,41.3,38,39.7,14.4,25.3,37.8,22.5
+371,Indian Diggings Elementary (El Dorado),09-61895-0000000,,,,,redacted,,redacted,27.3,redacted,redacted,20,6.7,13.3,40,40
+372,Indian Springs Elementary (Shasta),45-70037-0000000,,,,,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+373,Inglewood Unified (Los Angeles),19-64634-0000000,24.2,23.5,15.4,35.3,20.5,10.5,20,29,18.6,18.7,18.6,4.8,13.8,27.8,53.6
+374,Inyo County Office of Education (Inyo),14-10140-0000000,redacted,redacted,redacted,,0,,redacted,redacted,0,0,0,0,0,0,100
+375,Irvine Unified (Orange),30-73650-0000000,59,87.4,34.8,71.4,46.3,53.5,75.6,66.4,74.5,74,74.3,50.5,23.7,16.3,9.4
+376,Island Union Elementary (Kings),16-63933-0000000,,,redacted,redacted,39.5,,36.4,61.4,54.9,47.3,51.3,18.9,32.4,28.7,20
+377,Jacoby Creek Elementary (Humboldt),12-62893-0000000,redacted,redacted,redacted,redacted,62.2,,65.7,69.7,69.1,67.8,68.4,40.2,28.2,22.3,9.3
+378,Jamestown Elementary (Tuolumne),55-72363-0000000,redacted,,redacted,redacted,26.3,,redacted,25,25.5,26.5,25.9,6.2,19.7,33.2,40.9
+379,Jamul-Dulzura Union Elementary (San Diego),37-68155-0000000,redacted,redacted,redacted,redacted,28.6,,57.1,44.4,39.8,30.6,36.1,13.1,23,28.8,35.1
+380,Janesville Union Elementary (Lassen),18-64105-0000000,redacted,redacted,,,21.1,,redacted,29.3,27.6,26,26.9,7.1,19.8,32.6,40.5
+381,Jefferson Elementary (San Benito),35-67488-0000000,redacted,54.2,29.1,51.9,35.1,37.5,53.8,53.2,44.6,45.8,45.2,17.7,27.5,31.1,23.7
+382,Jefferson Elementary (San Mateo),41-68916-0000000,,,,,redacted,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+383,Jefferson Elementary (San Joaquin),39-68544-0000000,redacted,60.2,12.5,41.7,20.7,27.3,45.4,27.8,36.5,36.1,36.3,14.4,21.9,30.2,33.5
+384,Jefferson Union High (San Mateo),41-68924-0000000,redacted,72.8,0,41.2,17.2,redacted,33.3,40.6,36.5,41.7,39,17.6,21.4,22.7,38.2
+385,John Swett Unified (Contra Costa),07-61697-0000000,redacted,40.4,8.3,40,20.8,redacted,31.1,28.7,24.8,25.3,25,7.2,17.9,28.1,46.9
+386,Johnstonville Elementary (Lassen),18-64113-0000000,redacted,redacted,redacted,,9.5,,redacted,19.3,18,15.6,16.9,3.5,13.4,43,40.1
+387,Julian Union Elementary (San Diego),37-68163-0000000,25.9,redacted,,redacted,37.3,redacted,redacted,52.6,44.1,45.2,44.6,19.1,25.5,28.4,27
+388,Julian Union High (San Diego),37-68171-0000000,redacted,,,,7.7,,redacted,14.3,20.8,5.6,14.3,2.4,11.9,42.9,42.9
+389,Junction City Elementary (Trinity),53-71738-0000000,redacted,,,,redacted,redacted,redacted,51.7,50,41.7,45.7,19.6,26.1,37,17.4
+390,Junction Elementary (Shasta),45-70045-0000000,redacted,,redacted,,40,,redacted,53.5,48.9,55.6,51.9,21,30.9,28.4,19.8
+391,Junction Elementary (Siskiyou),47-70367-0000000,redacted,,,,redacted,,redacted,redacted,16.7,redacted,29.4,17.7,11.8,23.5,47.1
+392,Jurupa Unified (Riverside),33-67090-0000000,20,50.5,16.5,57.1,22.9,28.1,40.3,37.8,23.7,25.5,24.6,7.4,17.2,29.7,45.7
+393,Kashia Elementary (Sonoma),49-70888-0000000,redacted,,,,,redacted,redacted,,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+394,Kelseyville Unified (Lake),17-64014-0000000,19.2,redacted,redacted,redacted,13.8,redacted,27.6,29.9,22.5,21.9,22.2,7.2,15,31.8,46
+395,Kentfield Elementary (Marin),21-65334-0000000,redacted,76.3,redacted,redacted,43.6,redacted,82.5,77.2,71.6,73.6,72.5,42.5,30,18.4,9.1
+396,Kenwood (Sonoma),49-70789-0000000,,redacted,redacted,,41.7,,redacted,63.8,64.6,56.8,60.9,34.8,26.1,32.6,6.5
+397,Keppel Union Elementary (Los Angeles),19-64642-0000000,redacted,redacted,15.7,redacted,20.7,redacted,36.8,24.7,22.7,19.9,21.4,6.8,14.6,28.9,49.7
+398,Kerman Unified (Fresno),10-73999-0000000,33.3,45.7,10.5,redacted,26.8,,36.4,45.6,26.5,32.4,29.4,9.3,20.1,31.2,39.4
+399,Kern County Superintendent of Schools (Kern),15-10157-0000000,23.1,18.2,0,redacted,6.4,redacted,39.3,16,9.2,13.2,10.7,3.4,7.4,14.6,74.7
+400,Kern High (Kern),15-63529-0000000,22.6,44.4,11.5,51.1,17,16.7,30,31.3,19.9,22.7,21.3,6,15.4,23.5,55.2
+401,Kernville Union Elementary (Kern),15-63545-0000000,11.1,redacted,redacted,redacted,23.5,,redacted,21,25,17.7,21.2,6,15.2,28.4,50.4
+402,Keyes Union (Stanislaus),50-71134-0000000,redacted,54.6,,,28.2,redacted,redacted,39.8,36.4,30.4,33.5,9.7,23.8,33.6,32.9
+403,King City Union (Monterey),27-66050-0000000,redacted,15.4,redacted,redacted,15.7,,redacted,41.1,17.7,17.2,17.4,4.5,13,27.7,54.8
+404,Kings Canyon Joint Unified (Fresno),10-62265-0000000,16.7,42.9,redacted,60,30.6,redacted,46.2,48.4,31.3,34,32.6,11.9,20.7,29.9,37.6
+405,Kings County Office of Education (Kings),16-10165-0000000,redacted,,redacted,,0,,redacted,redacted,0,redacted,0,0,0,0,100
+406,Kings River Union Elementary (Tulare),54-71969-0000000,,redacted,redacted,,30.5,,redacted,61.9,39,26.1,32.9,17.5,15.4,28.1,39
+407,Kings River-Hardwick Union Elementary (Kings),16-63941-0000000,redacted,redacted,redacted,redacted,46.6,,68.8,69.6,61.8,60.8,61.3,30.8,30.6,24.1,14.6
+408,Kingsburg Elementary Charter (Fresno),10-62240-0000000,redacted,65.6,redacted,redacted,30.6,redacted,64.7,48.9,37,39.3,38.1,15.8,22.3,31.6,30.3
+409,Kingsburg Joint Union High (Fresno),10-62257-0000000,,41.7,redacted,redacted,29.8,,redacted,54.3,38.6,37.4,38.1,11.6,26.4,26.1,35.9
+410,Kirkwood Elementary (Tehama),52-71555-0000000,redacted,,,,47.1,,redacted,53.2,53.1,51.4,52.2,31.3,20.9,29.9,17.9
+411,Kit Carson Union Elementary (Kings),16-63958-0000000,,,redacted,,13.2,redacted,redacted,28.9,14,23.8,18.6,4.8,13.8,35.7,45.7
+412,Klamath River Union Elementary (Siskiyou),47-70375-0000000,redacted,,,,redacted,,redacted,redacted,redacted,redacted,27.3,0,27.3,45.5,27.3
+413,Klamath-Trinity Joint Unified (Humboldt),12-62901-0000000,9.6,redacted,redacted,,12.1,redacted,redacted,30,12.4,10,11.2,2.2,9,19,69.8
+414,Kneeland Elementary (Humboldt),12-62919-0000000,redacted,redacted,,,,,redacted,41.7,redacted,redacted,27.8,11.1,16.7,27.8,44.4
+415,Knights Ferry Elementary (Stanislaus),50-71142-0000000,,,redacted,redacted,redacted,,redacted,60.8,56.8,56.7,56.7,29.9,26.9,28.4,14.9
+416,Knightsen Elementary (Contra Costa),07-61705-0000000,,redacted,redacted,redacted,24.3,redacted,41.2,44.5,33.7,38,35.8,13.6,22.2,31.7,32.5
+417,Konocti Unified (Lake),17-64022-0000000,4.4,redacted,2.1,redacted,6.8,redacted,9.8,10.3,8.5,8.2,8.4,1.6,6.7,26.9,64.7
+418,La Habra City Elementary (Orange),30-66563-0000000,redacted,59.7,20.6,56,24.4,redacted,60,42.3,26.5,27.6,27,9.1,17.9,30.5,42.5
+419,La Honda-Pescadero Unified (San Mateo),41-68940-0000000,,,,,21.3,,redacted,39.2,25.4,28,26.8,13.4,13.4,30.5,42.7
+420,La Mesa-Spring Valley (San Diego),37-68197-0000000,25,59.3,20.9,59.1,28.8,30,44,57.7,39.3,38.3,38.8,17.2,21.6,29,32.2
+421,Lafayette Elementary (Contra Costa),07-61713-0000000,redacted,87.4,55.6,84.4,73.1,redacted,86.6,81.6,82.3,80.5,81.4,54,27.3,14.1,4.5
+422,Laguna Beach Unified (Orange),30-66555-0000000,redacted,87.8,55,81.8,57.7,redacted,85.1,72.1,72.1,71.9,72,43.7,28.3,16.6,11.4
+423,Laguna Joint Elementary (Marin),21-65342-0000000,,,,,redacted,,redacted,,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+424,Lagunita Elementary (Monterey),27-66076-0000000,redacted,,,,43.5,,redacted,42.4,37.5,51.6,44.4,12.7,31.8,39.7,15.9
+425,Lagunitas Elementary (Marin),21-65359-0000000,,redacted,redacted,redacted,13.3,redacted,redacted,35.2,39,13.5,26.9,6.4,20.5,35.9,37.2
+426,Lake County Office of Education (Lake),17-10173-0000000,redacted,redacted,,,redacted,,redacted,redacted,0,redacted,0,0,0,0,100
+427,Lake Elementary (Glenn),11-62596-0000000,redacted,,redacted,,36.7,,,49.4,48.2,43.6,45.9,22,23.9,27.5,26.6
+428,Lake Elsinore Unified (Riverside),33-75176-0000000,14.8,55.3,21.2,53.8,21.9,22.2,42.4,37.9,28.4,28,28.2,9.7,18.5,30.9,41
+429,Lake Tahoe Unified (El Dorado),09-61903-0000000,redacted,56.5,redacted,28.4,17.1,redacted,48.9,49.8,33.2,35.5,34.3,12.7,21.6,30.5,35.3
+430,Lakeport Unified (Lake),17-64030-0000000,7.5,redacted,21.4,redacted,22,redacted,34.8,33.7,28.7,27,27.9,10.3,17.7,34.3,37.8
+431,Lakeside Joint (Santa Clara),43-69492-0000000,,redacted,,,redacted,,redacted,69.2,65,76.2,70.7,46.3,24.4,24.4,4.9
+432,Lakeside Union (Kern),15-63552-0000000,redacted,35.7,17.7,redacted,24.5,redacted,13.3,29.7,30.2,22.7,26.5,7.4,19.1,32.1,41.4
+433,Lakeside Union Elementary (Kings),16-63966-0000000,,27.3,redacted,,23,,redacted,36.4,28.3,17.3,23.2,8,15.2,25.5,51.3
+434,Lakeside Union Elementary (San Diego),37-68189-0000000,27.3,58,29.9,56.3,27.6,33.3,45.1,44.9,41.1,37.5,39.4,15.6,23.7,31.2,29.5
+435,Lammersville Joint Unified (San Joaquin),39-76760-0000000,64.3,77.4,25.3,61.1,36.7,26.7,51.2,54,56.3,57.5,56.9,30.5,26.3,25.6,17.6
+436,Lamont Elementary (Kern),15-63560-0000000,,redacted,redacted,,19.9,redacted,redacted,19.2,20.4,19.3,19.8,5.6,14.2,28.9,51.3
+437,Lancaster Elementary (Los Angeles),19-64667-0000000,12.1,43.2,8.9,52.4,18.1,17.7,22.7,27.5,17.6,17.6,17.6,5.1,12.5,25.8,56.7
+438,Larkspur-Corte Madera (Marin),21-65367-0000000,,65.9,redacted,redacted,44.3,redacted,71.7,74.2,70.4,66.7,68.7,41,27.6,20.8,10.6
+439,Las Lomitas Elementary (San Mateo),41-68957-0000000,redacted,94.8,redacted,redacted,45.7,redacted,89.9,84.8,82.1,80.8,81.4,59.3,22.1,11.5,7.1
+440,Las Virgenes Unified (Los Angeles),19-64683-0000000,53.3,78.1,36.8,71.4,45,redacted,60.4,61.4,61.5,58.9,60.2,30.8,29.4,24.3,15.5
+441,Lassen County Office of Education (Lassen),18-10181-0000000,redacted,,,,,redacted,,redacted,redacted,,redacted,redacted,redacted,redacted,redacted
+442,Lassen Union High (Lassen),18-64139-0000000,17.7,,redacted,redacted,7.1,redacted,redacted,32.1,28.4,23.8,26.2,9.3,16.9,29.1,44.8
+443,Lassen View Union Elementary (Tehama),52-71563-0000000,redacted,,redacted,,39.5,,redacted,56.1,54.6,48,51.3,19.1,32.2,30.2,18.6
+444,Laton Joint Unified (Fresno),10-62281-0000000,,redacted,redacted,,17.3,,redacted,42.9,12.6,27.4,19.8,4.4,15.4,29.6,50.6
+445,Latrobe (El Dorado),09-61911-0000000,redacted,redacted,,redacted,45.5,,redacted,67.6,71.9,51.6,65.3,39,26.3,25.3,9.5
+446,Lawndale Elementary (Los Angeles),19-64691-0000000,redacted,70.5,27.2,53.1,33.7,40,42.7,50.7,34.8,36.9,35.8,13.7,22.1,32.1,32.1
+447,Laytonville Unified (Mendocino),23-73916-0000000,5,redacted,,,8.6,,23.1,31.7,25.2,22.5,23.9,7.2,16.8,29.7,46.4
+448,Le Grand Union Elementary (Merced),24-65722-0000000,,redacted,redacted,,21.5,,redacted,42.9,19.7,27.9,23.5,4.9,18.6,34.9,41.7
+449,Le Grand Union High (Merced),24-65730-0000000,,,,,19.8,,,redacted,23.4,13.2,18.8,2.6,16.2,34.2,47
+450,Leggett Valley Unified (Mendocino),23-75218-0000000,redacted,,redacted,,redacted,redacted,redacted,35.4,35.3,29.6,32.8,14.8,18,36.1,31.2
+451,Lemon Grove (San Diego),37-68205-0000000,6.7,59.8,29.2,69.4,29.3,37.5,38.6,45.6,33.6,32.8,33.2,11.6,21.6,29.9,36.9
+452,Lemoore Union Elementary (Kings),16-63974-0000000,0,54.2,19.1,63,30.2,redacted,43.3,43,33.3,34.7,34,11.3,22.7,29.9,36.1
+453,Lemoore Union High (Kings),16-63982-0000000,18.8,redacted,9.1,34.6,11.5,redacted,redacted,34.5,20.2,18.5,19.3,5.9,13.4,22.6,58
+454,Lennox (Los Angeles),19-64709-0000000,redacted,45.5,29,redacted,28.8,22.2,redacted,redacted,29.4,28.5,29,8.9,20.1,31,40.1
+455,Lewiston Elementary (Trinity),53-71746-0000000,redacted,redacted,,,redacted,,,40,35.3,35.7,35.5,12.9,22.6,22.6,41.9
+456,Liberty Elementary (Tulare),54-71985-0000000,redacted,redacted,redacted,redacted,32.3,,redacted,39.6,38.2,33.9,36.2,16,20.2,30.5,33.3
+457,Liberty Elementary (Sonoma),49-70797-0000000,,,,,77.3,,redacted,85,83.9,83.3,83.6,50.9,32.8,15.5,0.9
+458,Liberty Union High (Contra Costa),07-61721-0000000,27.3,58,11.2,49.5,21.1,58.3,43,39.3,29.6,34,31.9,8,24,30.7,37.4
+459,Lincoln Elementary (Marin),21-65375-0000000,,,,,redacted,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+460,Lincoln Unified (San Joaquin),39-68569-0000000,17.7,51.3,20.2,46.4,24.4,22.6,34.2,44.7,32.5,31.6,32.1,12.6,19.5,28.6,39.3
+461,Linden Unified (San Joaquin),39-68577-0000000,29.4,67.9,redacted,redacted,23.9,redacted,33.3,42.6,30.7,32.6,31.6,12.3,19.3,31.3,37.1
+462,Lindsay Unified (Tulare),54-71993-0000000,redacted,21.3,redacted,redacted,19.7,,redacted,17.9,19.6,19.8,19.7,5.3,14.4,24.7,55.6
+463,Linns Valley-Poso Flat Union (Kern),15-63586-0000000,,,,,,,,14.3,redacted,redacted,14.3,7.1,7.1,42.9,42.9
+464,Little Lake City Elementary (Los Angeles),19-64717-0000000,redacted,65.5,29.3,51.6,39.2,redacted,26.3,45.1,40.5,38.9,39.7,16.6,23.2,32.4,27.9
+465,Little Shasta Elementary (Siskiyou),47-70383-0000000,redacted,,,,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+466,Live Oak Elementary (Santa Cruz),44-69765-0000000,63.6,59.1,34.3,52.4,27,redacted,redacted,48.9,36.6,36.1,36.4,15.2,21.2,31.2,32.4
+467,Live Oak Unified (Sutter),51-71399-0000000,redacted,42.1,redacted,redacted,28.8,redacted,redacted,40.8,35.2,31.7,33.5,13.6,19.9,30.3,36.2
+468,Livermore Valley Joint Unified (Alameda),01-61200-0000000,28.6,71.8,27.6,55.2,30.9,41.7,62.1,56.5,49.7,49.5,49.6,23,26.6,26.7,23.7
+469,Livingston Union (Merced),24-65748-0000000,redacted,39.2,redacted,redacted,19.7,redacted,redacted,30,23.4,21.1,22.3,6.4,15.9,28.6,49.1
+470,Lodi Unified (San Joaquin),39-68585-0000000,36.4,39.1,15.8,50.2,24.7,26.6,33.2,44.6,32.1,32,32.1,13,19.1,28.3,39.7
+471,Loleta Union Elementary (Humboldt),12-62927-0000000,0,,,,0,,redacted,16.7,8.3,0,3.5,0,3.5,31.6,64.9
+472,Loma Prieta Joint Union Elementary (Santa Clara),43-69500-0000000,redacted,70,redacted,redacted,58.8,redacted,71.8,70.2,68.1,71.2,69.6,42.4,27.2,21.5,8.9
+473,Lompoc Unified (Santa Barbara),42-69229-0000000,33.3,31,21.5,49.1,20.4,41.2,40,44.8,28.6,26.4,27.5,8.9,18.7,30.4,42.1
+474,Lone Pine Unified (Inyo),14-63289-0000000,37,redacted,redacted,,22,,redacted,42.1,30.3,31.9,31,7,24.1,36.7,32.3
+475,Long Beach Unified (Los Angeles),19-64725-0000000,29.4,58.2,22.6,57.5,31.6,33,59,64.2,37.8,39.7,38.8,17.1,21.7,28.1,33.1
+476,Loomis Union Elementary (Placer),31-66845-0000000,44,86.5,redacted,63.6,53.3,redacted,64.7,63.2,62.2,62,62.1,29.6,32.5,25.7,12.2
+477,Los Alamitos Unified (Orange),30-73924-0000000,50,89.7,44.7,81.3,63.5,75,77.3,74.2,73,73.2,73.1,45.7,27.4,17.8,9.1
+478,Los Angeles County Office of Education (Los Angeles),19-10199-0000000,redacted,61.8,5.5,38.5,10.9,redacted,63.2,39,17.1,19.8,18.1,5.8,12.3,15.5,66.4
+479,Los Angeles Unified (Los Angeles),19-64733-0000000,31.6,70.3,18.9,55,23.7,37.7,56.3,57.3,29.8,29.9,29.9,12.4,17.5,26.6,43.5
+480,Los Banos Unified (Merced),24-65755-0000000,14.3,50,8.3,40.5,21,10.4,37.2,33.7,22.7,22.9,22.8,7.1,15.7,29.9,47.3
+481,Los Gatos Union Elementary (Santa Clara),43-69526-0000000,70.6,86.4,75,63.6,59.4,redacted,80,76,77.4,76.1,76.7,49.1,27.7,16.3,6.9
+482,Los Gatos-Saratoga Joint Union High (Santa Clara),43-69534-0000000,,90.3,redacted,redacted,58.5,redacted,70.3,64.1,70,75.3,72.5,43.9,28.6,15,12.6
+483,Los Molinos Unified (Tehama),52-71571-0000000,redacted,redacted,,,21.2,,15.4,31.8,27.8,23.5,25.8,5.2,20.6,31.4,42.9
+484,Los Nietos (Los Angeles),19-64758-0000000,redacted,redacted,redacted,redacted,28.7,redacted,redacted,32,28.6,28.7,28.7,10.4,18.3,31.3,40.1
+485,Los Olivos Elementary (Santa Barbara),42-69245-0000000,,redacted,,,47.8,,redacted,59.2,55.6,55.8,55.7,29.3,26.4,30.2,14.2
+486,Lost Hills Union Elementary (Kern),15-63594-0000000,,redacted,redacted,,10.4,,,,10.5,10.2,10.3,1.1,9.2,22.4,67.3
+487,Lowell Joint (Los Angeles),19-64766-0000000,redacted,78.6,45.7,57.1,49.4,redacted,64.3,64.9,53.9,54.7,54.3,26.2,28.1,28.3,17.4
+488,Lucerne Elementary (Lake),17-64048-0000000,redacted,redacted,redacted,,14.3,,redacted,17.6,17.1,12.9,15.2,4.4,10.8,31.7,53.2
+489,Lucerne Valley Unified (San Bernardino),36-75051-0000000,redacted,redacted,redacted,redacted,14.6,redacted,redacted,15.6,13.5,17.9,15.6,5.1,10.5,32.9,51.5
+490,Lucia Mar Unified (San Luis Obispo),40-68759-0000000,20.7,68.5,31.8,45.8,22.7,38.5,50,49.3,38.1,36.8,37.5,15.1,22.4,31,31.5
+491,Luther Burbank (Santa Clara),43-69542-0000000,,redacted,redacted,redacted,28.6,redacted,redacted,redacted,29.9,30.8,30.3,9,21.3,29.7,39.9
+492,Lynwood Unified (Los Angeles),19-64774-0000000,,41.7,12.5,redacted,22.3,20,redacted,17.9,21.7,22,21.9,6.2,15.6,29.1,49.1
+493,Madera County Office of Education (Madera),20-10207-0000000,redacted,,redacted,,0.5,,redacted,0,0,1,0.4,0.4,0,8.1,91.5
+494,Madera Unified (Madera),20-65243-0000000,11.4,45.9,17.7,50,19.6,redacted,28.6,34.8,21.1,20.7,20.9,5.9,15,28.6,50.5
+495,Magnolia Elementary (Orange),30-66589-0000000,20.8,79.3,28.6,79,35.5,45.2,37.3,51.8,44,41.8,42.9,20.4,22.5,28.4,28.7
+496,Magnolia Union Elementary (Imperial),13-63172-0000000,,redacted,,,46,,redacted,64.6,51.9,63.9,56.8,25,31.8,31.8,11.4
+497,Mammoth Unified (Mono),26-73692-0000000,,redacted,redacted,redacted,12.8,redacted,redacted,60.3,29.9,32.8,31.4,15.5,15.8,29.1,39.5
+498,Manchester Union Elementary (Mendocino),23-65573-0000000,,,,,0,,,redacted,9.1,6.3,7.4,3.7,3.7,55.6,37
+499,Manhattan Beach Unified (Los Angeles),19-75333-0000000,redacted,90.6,41.2,75,63.5,redacted,82.5,73.3,76,73.5,74.8,43.4,31.4,17.7,7.5
+500,Manteca Unified (San Joaquin),39-68593-0000000,17.3,35.4,15.8,45.5,19.5,34.2,31.5,31.1,25.1,24.2,24.7,7.5,17.2,31.9,43.4
+501,Manzanita Elementary (Butte),04-61499-0000000,redacted,50,,,33.3,,redacted,68.2,52.4,54.4,53.5,27.6,25.9,31.6,14.9
+502,Maple Creek Elementary (Humboldt),12-62935-0000000,redacted,,redacted,,redacted,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+503,Maple Elementary (Kern),15-63610-0000000,,,,,26.3,,,35.3,35.3,24.7,29.7,11,18.7,35.7,34.6
+504,Marcum-Illinois Union Elementary (Sutter),51-71407-0000000,redacted,,redacted,,50,,redacted,53.9,55.6,52.4,53.7,25.9,27.8,28.7,17.6
+505,Maricopa Unified (Kern),15-63628-0000000,redacted,,,,5.2,,redacted,6.1,7.5,4.9,6.2,1.9,4.3,23.5,70.4
+506,Marin County Office of Education (Marin),21-10215-0000000,,redacted,redacted,,redacted,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+507,Mariposa County Office of Education (Mariposa),22-10223-0000000,,,,,,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+508,Mariposa County Unified (Mariposa),22-65532-0000000,21.4,redacted,redacted,redacted,21.7,,30.4,37.2,30.4,36.1,33.2,13.3,20,29.8,37
+509,Mark Twain Union Elementary (Calaveras),05-61572-0000000,redacted,redacted,redacted,redacted,26.9,,25,34.3,32.6,32.4,32.5,7.8,24.7,34.2,33.4
+510,Mark West Union Elementary (Sonoma),49-70805-0000000,23.1,50,redacted,redacted,38,redacted,57.4,54.4,50.6,47.9,49.2,20.8,28.4,31.4,19.3
+511,Martinez Unified (Contra Costa),07-61739-0000000,redacted,61.5,21.8,56.6,32.3,redacted,45.8,46.4,42.3,41.9,42.1,17.5,24.6,29.8,28.1
+512,Marysville Joint Unified (Yuba),58-72736-0000000,19.6,25.2,17.1,39.1,21.1,30,34.6,30.3,25.9,24.7,25.3,8.1,17.2,30.5,44.2
+513,Mattole Unified (Humboldt),12-75382-0000000,redacted,,redacted,,19.4,redacted,33.3,35.5,31.9,34.3,33.1,14.4,18.7,27,39.9
+514,Maxwell Unified (Colusa),06-61606-0000000,redacted,redacted,,,37.2,redacted,redacted,53.2,37.8,46.5,41.9,14.1,27.7,25.5,32.6
+515,McCabe Union Elementary (Imperial),13-63180-0000000,,96.4,redacted,redacted,56.8,redacted,redacted,76.2,63.6,57.2,60.4,27,33.5,28,11.6
+516,McCloud Union Elementary (Siskiyou),47-70409-0000000,redacted,,,,redacted,,redacted,34.6,35,40,37.5,15,22.5,37.5,25
+517,McFarland Unified (Kern),15-73908-0000000,redacted,18.2,redacted,redacted,19.2,,redacted,15.4,18.5,19.9,19.2,4.7,14.4,29.6,51.2
+518,McKinleyville Union Elementary (Humboldt),12-62950-0000000,22.4,redacted,redacted,,27.5,redacted,29.3,38.1,35.2,32.8,34,14.4,19.6,30.9,35.1
+519,McKittrick Elementary (Kern),15-63651-0000000,redacted,,,,redacted,,redacted,50,45.5,54.6,49.1,23.6,25.5,32.7,18.2
+520,McSwain Union Elementary (Merced),24-65763-0000000,,48.4,redacted,redacted,29.9,redacted,56.3,48.8,39.8,42,40.8,14.9,25.9,32.7,26.5
+521,Meadows Union Elementary (Imperial),13-63198-0000000,,,redacted,,23.7,redacted,redacted,48.7,26.5,27.3,26.9,10.2,16.7,28.8,44.3
+522,Mendocino County Office of Education (Mendocino),23-10231-0000000,redacted,,,,0,redacted,redacted,redacted,4.6,0,3,0,3,6.1,90.9
+523,Mendocino Unified (Mendocino),23-65581-0000000,redacted,redacted,redacted,redacted,26.7,redacted,redacted,50.5,47.5,50,48.7,25.3,23.4,29.4,21.9
+524,Mendota Unified (Fresno),10-75127-0000000,,,redacted,,20.4,,redacted,46.4,21.2,20.3,20.7,6.1,14.6,29.8,49.5
+525,Menifee Union Elementary (Riverside),33-67116-0000000,34.8,62.9,25.4,72.8,32.6,31.6,46.3,47.2,40.8,39.7,40.2,14.3,26,31.1,28.7
+526,Merced City Elementary (Merced),24-65771-0000000,22.2,35,11,50.9,18.9,13.3,34.5,37.2,23.6,22.8,23.2,8.5,14.6,28.8,48.1
+527,Merced County Office of Education (Merced),24-10249-0000000,redacted,redacted,0,,3,,redacted,4.6,2.8,3.2,3,0.8,2.1,9.3,87.8
+528,Merced River Union Elementary (Merced),24-73726-0000000,,,redacted,,20,,redacted,31.3,20,30.4,25.5,6.6,18.9,34.9,39.6
+529,Merced Union High (Merced),24-65789-0000000,redacted,34.7,4.9,66.7,15.2,redacted,39.1,36.1,22.7,19.3,21,5.5,15.5,24,55
+530,Meridian Elementary (Sutter),51-71415-0000000,redacted,,,,0,,redacted,20,11.4,12,11.7,6.7,5,31.7,56.7
+531,Mesa Union Elementary (Ventura),56-72470-0000000,redacted,80,redacted,72.7,39.8,redacted,68,68,53.4,47.8,50.6,24.3,26.3,28.2,21.2
+532,Middletown Unified (Lake),17-64055-0000000,redacted,redacted,redacted,redacted,22.2,redacted,41.4,33.5,30.9,31.2,31.1,8.4,22.6,34.8,34.1
+533,Midway Elementary (Kern),15-63669-0000000,redacted,,,,redacted,,redacted,31.9,28.6,34.5,31.6,12.3,19.3,43.9,24.6
+534,Mill Valley Elementary (Marin),21-65391-0000000,redacted,72,40,redacted,63.9,redacted,80.8,77.4,77.6,74.2,76,45.7,30.2,17.1,7
+535,Millbrae Elementary (San Mateo),41-68973-0000000,redacted,79.5,46.7,56.7,29.5,38.7,63.4,54.2,62.8,59.9,61.4,34.7,26.7,21.8,16.8
+536,Millville Elementary (Shasta),45-70052-0000000,redacted,,,redacted,81.8,,57.1,64.5,69.9,58.8,64.3,36.9,27.4,28,7.7
+537,Milpitas Unified (Santa Clara),43-73387-0000000,31.8,82.2,30.5,56,28.5,47.1,49,57.8,62.3,62,62.1,39.7,22.4,21,16.9
+538,Mission Union Elementary (Monterey),27-66084-0000000,,redacted,,redacted,29.2,,,40.9,19.1,45.8,33.3,8.9,24.4,37.8,28.9
+539,Modesto City Elementary (Stanislaus),50-71167-0000000,21.4,26.3,9,69,15.1,20.4,25.6,33.9,19.9,18.1,19,6.1,12.9,27.3,53.7
+540,Modesto City High (Stanislaus),50-71175-0000000,6.7,40.1,10.8,57.1,16.4,21.2,28.7,34.4,23.4,23.2,23.3,6.9,16.4,25.8,50.9
+541,Modesto City Schools (Stanislaus),50-40717-0000000,,,,,,,,,,,,,,,
+542,Modoc County Office of Education (Modoc),25-10256-0000000,,,redacted,,redacted,,,redacted,redacted,redacted,7.7,0,7.7,7.7,84.6
+543,Modoc Joint Unified (Modoc),25-73585-0000000,24.3,redacted,redacted,redacted,16.7,redacted,45.5,26.5,19.2,30.8,24.7,7.1,17.6,34.1,41.2
+544,Mojave Unified (Kern),15-63677-0000000,redacted,redacted,5.6,redacted,11.1,redacted,9.3,20.2,11.3,11.1,11.2,2.3,8.9,22.1,66.7
+545,Mono County Office of Education (Mono),26-10264-0000000,,,redacted,,redacted,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+546,Monroe Elementary (Fresno),10-62323-0000000,,redacted,redacted,,26.3,,,redacted,26.3,28.3,27.3,7.3,20,40.9,31.8
+547,Monrovia Unified (Los Angeles),19-64790-0000000,redacted,78.9,27.9,59.6,32.8,redacted,51.7,64.2,43.5,40.5,42.1,19,23.1,27.3,30.6
+548,Monson-Sultana Joint Union Elementary (Tulare),54-72009-0000000,,redacted,,,26.9,redacted,redacted,40,29.4,27.2,28.2,11,17.3,27.9,43.9
+549,Montague Elementary (Siskiyou),47-70417-0000000,redacted,redacted,redacted,,17.7,redacted,redacted,23.1,16.7,29.6,23.5,6.9,16.7,32.4,44.1
+550,Monte Rio Union Elementary (Sonoma),49-70813-0000000,,redacted,,,redacted,,redacted,48.6,32.4,55.6,40.4,19.2,21.2,32.7,26.9
+551,Montebello Unified (Los Angeles),19-64808-0000000,17.7,66,17.1,48.9,19.3,redacted,54.3,32.5,20,21,20.5,6.4,14.1,28,51.5
+552,Montecito Union Elementary (Santa Barbara),42-69252-0000000,redacted,redacted,redacted,,73.7,,redacted,83,80.5,82.2,81.5,58.5,23,15.7,2.8
+553,Monterey County Office of Education (Monterey),27-10272-0000000,redacted,redacted,redacted,redacted,10.1,redacted,redacted,14.3,16.4,10.3,13.7,5,8.7,19.1,67.2
+554,Monterey Peninsula Unified (Monterey),27-66092-0000000,17.7,39.7,16.9,40.1,20.2,26.1,31.9,40.1,25.2,26.3,25.7,8.2,17.6,29,45.3
+555,Montgomery Elementary (Sonoma),49-70821-0000000,,,,redacted,redacted,,,50,61.5,redacted,52.6,15.8,36.8,36.8,10.5
+556,Moorpark Unified (Ventura),56-73940-0000000,redacted,80.7,36.6,56.3,30.5,redacted,69.3,62,50.5,46.1,48.3,22.5,25.8,27.4,24.4
+557,Moraga Elementary (Contra Costa),07-61747-0000000,redacted,92,53.9,100,65.2,,92.8,81.9,84.6,82.2,83.4,56.9,26.5,12.4,4.2
+558,Moreland (Santa Clara),43-69575-0000000,33.3,88.7,45.2,73,32.8,41.7,70.3,72.4,63.9,60.7,62.3,40.3,22,20.8,16.8
+559,Moreno Valley Unified (Riverside),33-67124-0000000,26.7,40.3,12.5,55.1,19.5,25,25,32.4,20.8,20.4,20.6,6.2,14.4,29.3,50.1
+560,Morgan Hill Unified (Santa Clara),43-69583-0000000,31.8,73.6,39.2,64.1,23.3,36.8,49.1,56.8,37.8,42,39.9,18.2,21.7,26.6,33.5
+561,Morongo Unified (San Bernardino),36-67777-0000000,28.6,55.4,18.5,41.7,22.8,31.6,25.8,32.2,28,28.6,28.3,10,18.3,29.9,41.9
+562,Mother Lode Union Elementary (El Dorado),09-61929-0000000,14.3,,redacted,redacted,32.9,redacted,20.8,44.7,37.6,39.8,38.7,14.1,24.5,34.4,27
+563,Mount Pleasant Elementary (Santa Clara),43-69617-0000000,redacted,62.6,32.3,46.9,19.4,42.9,33.3,51,28.3,28.2,28.3,11.4,16.9,29.4,42.3
+564,Mountain Elementary (Santa Cruz),44-69773-0000000,,,,,redacted,,redacted,75.9,72.7,74.2,73.4,40.6,32.8,18.8,7.8
+565,Mountain Empire Unified (San Diego),37-68213-0000000,9.5,redacted,0,redacted,14.5,redacted,16.1,32.6,21.5,18.7,20.3,5.3,15,26.8,52.9
+566,Mountain House Elementary (Alameda),01-61218-0000000,redacted,,,,redacted,redacted,,redacted,redacted,redacted,8.3,0,8.3,16.7,75
+567,Mountain Union Elementary (Shasta),45-73700-0000000,redacted,,,,redacted,,redacted,34.8,35.7,27.3,30.6,13.9,16.7,38.9,30.6
+568,Mountain Valley Unified (Trinity),53-75028-0000000,redacted,32,,,23.5,,25,41.9,33.8,37.3,35.6,15.8,19.9,35.6,28.8
+569,Mountain View Elementary (Los Angeles),19-64816-0000000,,64.2,redacted,redacted,21,redacted,,redacted,23.6,23.6,23.6,8.3,15.3,29.1,47.3
+570,Mountain View Elementary (San Bernardino),36-67785-0000000,redacted,61.3,14.5,50,26.2,redacted,45.5,43.9,29,30.1,29.5,8.9,20.6,34.2,36.3
+571,Mountain View Whisman (Santa Clara),43-69591-0000000,redacted,85.4,42.9,60,35.8,42.1,80.4,85,62.4,61.5,62,42.6,19.4,19.6,18.4
+572,Mountain View-Los Altos Union High (Santa Clara),43-69609-0000000,redacted,88.5,36.4,56.7,34.5,redacted,73.3,78.3,65.4,68.9,67,43.6,23.4,13,20
+573,Mt. Baldy Joint Elementary (San Bernardino),36-67793-0000000,,redacted,redacted,,60.9,,redacted,54.6,57.9,56,57.1,36.5,20.6,27,15.9
+574,Mt. Diablo Unified (Contra Costa),07-61754-0000000,31.8,60.9,16.9,52.7,20.7,24.2,53.9,55,39,38.2,38.6,17.9,20.7,26,35.5
+575,Mt. Shasta Union Elementary (Siskiyou),47-70425-0000000,redacted,redacted,redacted,redacted,31.4,redacted,27.3,47.1,43,43.2,43.1,15.7,27.4,27.9,29
+576,Mulberry Elementary (Imperial),13-63206-0000000,,,redacted,redacted,31.3,,redacted,47.6,34.8,39.5,37.7,8.2,29.5,36.1,26.2
+577,Mupu Elementary (Ventura),56-72504-0000000,,,,,21.9,,redacted,69,30.8,40,36.2,22.3,13.8,37.2,26.6
+578,Muroc Joint Unified (Kern),15-63685-0000000,redacted,redacted,26.4,43.8,25.7,redacted,38.7,39.5,35.4,33.3,34.4,11.9,22.5,27.9,37.7
+579,Murrieta Valley Unified (Riverside),33-75200-0000000,54.8,64.5,29.6,60.4,38,36,47.6,53.1,47.2,46,46.6,20.8,25.8,29.8,23.6
+580,Napa County Office of Education (Napa),28-10280-0000000,,,redacted,redacted,0,,redacted,redacted,0,0,0,0,0,5.1,94.9
+581,Napa Valley Unified (Napa),28-66266-0000000,52,64.5,18.5,58.3,21.2,21.4,51.1,46.5,33.4,33,33.2,13.3,19.9,27.6,39.2
+582,National Elementary (San Diego),37-68221-0000000,redacted,54.3,22,52.2,27.5,24,53.6,46.3,32.6,29.6,31.1,10.7,20.3,34.3,34.7
+583,Natomas Unified (Sacramento),34-75283-0000000,29.2,51.6,14.4,47.6,23.9,23.4,34.9,47.9,32.9,33.2,33,13.4,19.7,28.3,38.6
+584,Needles Unified (San Bernardino),36-67801-0000000,16.3,redacted,redacted,redacted,17.4,,31.3,23.1,20.3,19.8,20.1,6.2,13.9,28.1,51.8
+585,Nevada City Elementary (Nevada),29-66340-0000000,redacted,redacted,redacted,redacted,39.1,redacted,35.7,41.9,39.9,40.6,40.3,16.7,23.6,32.5,27.3
+586,Nevada County Office of Education (Nevada),29-10298-0000000,redacted,54.6,redacted,redacted,19.6,redacted,38.5,41.1,39.4,38.4,38.9,15.2,23.7,28.8,32.4
+587,Nevada Joint Union High (Nevada),29-66357-0000000,redacted,redacted,redacted,redacted,27.3,,50,39.3,34.4,44.3,39,16.6,22.4,26.2,34.8
+588,New Haven Unified (Alameda),01-61242-0000000,26.7,60.3,17.9,49.1,22.7,32.2,49.6,45.3,39.3,39.4,39.4,17.9,21.4,27.5,33.1
+589,New Hope Elementary (San Joaquin),39-68619-0000000,,redacted,redacted,redacted,16.4,,redacted,redacted,21.4,14.9,17.9,4.9,13,31.7,50.4
+590,New Jerusalem Elementary (San Joaquin),39-68627-0000000,redacted,22.2,4.9,redacted,10.7,redacted,2.8,18,13.2,14.3,13.8,4.7,9.1,28.3,58
+591,Newark Unified (Alameda),01-61234-0000000,redacted,61.4,22.7,52.7,26,37.7,47.9,47.9,36.7,36.7,36.7,15.7,21,28.3,35
+592,Newcastle Elementary (Placer),31-66852-0000000,redacted,redacted,redacted,redacted,39.6,,62.5,52,54.1,48.9,51.7,22.3,29.4,32.5,15.8
+593,Newhall (Los Angeles),19-64832-0000000,61.5,92.6,51,77.8,50.6,redacted,80.2,78.7,65.7,66.6,66.2,41.3,24.8,20.7,13.1
+594,Newman-Crows Landing Unified (Stanislaus),50-73601-0000000,redacted,redacted,16.7,redacted,20.6,redacted,31.7,36.6,23.6,24.1,23.9,5.9,18,30.8,45.3
+595,Newport-Mesa Unified (Orange),30-66597-0000000,33.3,78.6,36,65,29.2,40,67.2,67,51.9,47.9,50,25.3,24.7,25.2,24.8
+596,Nicasio (Marin),21-65409-0000000,,redacted,,,redacted,,,52.4,46.7,56.3,51.6,22.6,29,35.5,12.9
+597,Norris Elementary (Kern),15-63693-0000000,30.3,76.8,37.5,71.4,43.7,redacted,62.8,52.2,52.4,49.4,50.9,23.8,27.1,28.3,20.7
+598,North County Joint Union Elementary (San Benito),35-67504-0000000,,,redacted,,41.2,,redacted,59.2,49,49.4,49.2,19,30.2,28.3,22.5
+599,North Cow Creek Elementary (Shasta),45-70078-0000000,redacted,redacted,redacted,,46.2,,66.7,49.6,47.3,53.9,50.3,23.4,26.9,31.6,18.1
+600,North Monterey County Unified (Monterey),27-73825-0000000,redacted,45.5,redacted,47.4,15,redacted,45.5,26.8,17.2,16.7,16.9,4.9,12,29.2,53.9
+601,Northern Humboldt Union High (Humboldt),12-62687-0000000,6.3,46.2,redacted,,5.3,redacted,31.4,43.1,35,35.8,35.4,16.9,18.5,21,43.6
+602,Norwalk-La Mirada Unified (Los Angeles),19-64840-0000000,33.3,64.5,19.4,54.9,27.1,26.8,49.6,39.7,31,30.1,30.6,11.3,19.2,29.4,40
+603,Novato Unified (Marin),21-65417-0000000,31.8,70.7,17,52.6,24.5,redacted,62.5,61.3,46.4,46.4,46.4,22.5,23.9,26.3,27.3
+604,Nuestro Elementary (Sutter),51-71423-0000000,,70.6,,,38.9,,redacted,58.7,55.3,58,56.8,29.6,27.3,31.8,11.4
+605,Nuview Union (Riverside),33-67157-0000000,redacted,redacted,35.7,redacted,25.7,redacted,31.3,37.6,29.2,27.8,28.5,8.6,19.9,32,39.5
+606,Oak Grove Elementary (Santa Clara),43-69625-0000000,34.8,71.3,27.5,53.9,24.8,26.4,57.9,53.8,42.5,42.8,42.6,21.3,21.4,26.8,30.5
+607,Oak Grove Union Elementary (Sonoma),49-70839-0000000,redacted,81.3,redacted,redacted,40.4,redacted,58.8,57.3,56,50.4,53.3,20.7,32.6,32.8,13.9
+608,Oak Park Unified (Ventura),56-73874-0000000,redacted,88.8,55.9,70,54.8,redacted,78.3,67.9,74.3,69.3,71.8,42.8,29,19.8,8.4
+609,Oak Run Elementary (Shasta),45-70086-0000000,redacted,,,,,,redacted,11.1,redacted,13,12.5,6.3,6.3,37.5,50
+610,Oak Valley Union Elementary (Tulare),54-72017-0000000,redacted,redacted,redacted,redacted,31.3,,,51.4,38.4,32.8,35.6,12.8,22.8,30.6,33.9
+611,Oak View Union Elementary (San Joaquin),39-68635-0000000,redacted,redacted,,redacted,35.7,redacted,50,58.6,51.4,45.1,48.4,15.1,33.3,35.5,16.1
+612,Oakdale Joint Unified (Stanislaus),50-75564-0000000,42.3,50,27.3,57.1,23.3,redacted,36.1,38.5,35.2,30.6,33.1,10.7,22.3,32.3,34.6
+613,Oakland Unified (Alameda),01-61259-0000000,11.1,47.9,10.8,31.4,15.9,19.5,51.8,62.3,25.7,25.4,25.5,11.3,14.3,23.2,51.3
+614,Oakley Union Elementary (Contra Costa),07-61762-0000000,17.7,43.6,14.5,63.3,20.7,30,27.5,35.4,28.8,25.9,27.4,8,19.4,32.3,40.4
+615,Ocean View (Orange),30-66613-0000000,41.7,83,54.2,69.3,37.5,38.9,65.9,64.4,57.2,56.6,56.9,31.2,25.7,24.9,18.2
+616,Ocean View (Ventura),56-72512-0000000,redacted,redacted,25,31.9,14.9,redacted,27.3,33.3,17.5,15.6,16.6,3.4,13.1,27.9,55.6
+617,Oceanside Unified (San Diego),37-73569-0000000,30,69.4,28.7,49.6,26.1,36.1,46.9,52.5,35,35.8,35.4,12.6,22.8,29.7,35
+618,Ojai Unified (Ventura),56-72520-0000000,redacted,76.5,25,redacted,20.3,redacted,34.2,42.9,35.7,33.6,34.7,13.6,21,29,36.3
+619,Old Adobe Union (Sonoma),49-70847-0000000,redacted,47.1,25,redacted,27.3,redacted,40,59,44.5,41,42.8,19.1,23.7,29.4,27.8
+620,Ontario-Montclair (San Bernardino),36-67819-0000000,31.9,67.6,21.9,64.6,25.8,32.6,40.6,38.3,27.3,27.6,27.4,9.2,18.2,29.9,42.7
+621,Orange Center (Fresno),10-62331-0000000,,18.4,redacted,,22.1,,redacted,redacted,25,17.7,21.3,2.1,19.2,31.9,46.8
+622,Orange County Department of Education (Orange),30-10306-0000000,redacted,41.6,3,redacted,4.5,redacted,24.3,25.8,9.7,16.3,12.3,4.7,7.5,10.6,77.1
+623,Orange Unified (Orange),30-66621-0000000,44.8,78.3,31.5,65.6,25.7,36.1,55.7,55.8,42.4,40.9,41.6,19.8,21.8,27.7,30.7
+624,Orchard Elementary (Santa Clara),43-69633-0000000,redacted,63.4,45,61.4,24.4,57.1,60,55.9,42.9,48.8,45.8,21.7,24.1,24.8,29.4
+625,Orcutt Union Elementary (Santa Barbara),42-69260-0000000,34.8,69.1,37,43.9,34.9,redacted,47.2,50.2,42.7,42.7,42.7,17,25.7,31.6,25.7
+626,Orick Elementary (Humboldt),12-62968-0000000,,,,,,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+627,Orland Joint Unified (Glenn),11-75481-0000000,redacted,3.6,redacted,redacted,12.2,,redacted,20.7,14.6,15.3,14.9,2.8,12.1,30.8,54.3
+628,Oro Grande Elementary (San Bernardino),36-67827-0000000,21.1,redacted,11.7,redacted,18.8,redacted,23.3,31.5,22.1,20.8,21.5,3.9,17.6,29.7,48.8
+629,Oroville City Elementary (Butte),04-61507-0000000,11.4,18.9,3.7,redacted,22.8,redacted,18.1,22.1,20.5,20.2,20.4,5.9,14.5,30.9,48.7
+630,Oroville Union High (Butte),04-61515-0000000,16,16.9,6.3,redacted,14.7,,18.2,25.2,18.2,22.5,20.3,3.3,16.9,24,55.7
+631,Outside Creek Elementary (Tulare),54-72025-0000000,,redacted,,,8.8,,,26.3,7.7,18.4,13,3.9,9.1,40.3,46.8
+632,Owens Valley Unified (Inyo),14-63297-0000000,redacted,,,,17.4,,,28,25,17.2,21.1,7,14,31.6,47.4
+633,Oxnard (Ventura),56-72538-0000000,13.3,44.9,11.8,42.9,11.9,42.1,29,26.5,13.6,12.7,13.2,3.2,10,26.8,60.1
+634,Oxnard Union High (Ventura),56-72546-0000000,redacted,69.3,24.6,51.4,17.4,26.7,46.3,46.9,22.5,25.4,23.9,7.9,16,24.1,52
+635,Pacheco Union Elementary (Shasta),45-70094-0000000,36.4,redacted,redacted,redacted,24.6,,27.3,31.5,29.7,32.2,30.9,9.7,21.2,34.4,34.7
+636,Pacific Elementary (Santa Cruz),44-69781-0000000,,redacted,,,33.3,,redacted,58.8,53.3,57.1,54.9,23.5,31.4,27.5,17.7
+637,Pacific Grove Unified (Monterey),27-66134-0000000,redacted,72.1,21.4,60,44.2,63.6,56.2,67.7,62,62.2,62,34.9,27.2,21.7,16.2
+638,Pacific Union Elementary (Humboldt),12-62976-0000000,35.7,redacted,redacted,,27.2,,38.9,54.4,48.3,41.5,44.9,16,28.9,30.6,24.5
+639,Pacific Union Elementary (Fresno),10-62356-0000000,redacted,58.3,redacted,,18.9,,redacted,34.6,22.8,20.9,21.9,6,15.9,29.5,48.6
+640,Pacifica (San Mateo),41-68932-0000000,redacted,70.8,20.7,51.8,38.8,4.4,56.4,63,53,55.1,54,26.4,27.7,26.8,19.2
+641,Pajaro Valley Unified (Santa Cruz),44-69799-0000000,21.1,50.5,36.5,44.9,15,33.3,25,51,21.8,20.5,21.2,7.5,13.7,26.2,52.6
+642,Palermo Union Elementary (Butte),04-61523-0000000,15.2,17.2,redacted,redacted,12,,16.4,19,15.1,16.4,15.7,3.6,12.1,31.1,53.2
+643,Palm Springs Unified (Riverside),33-67173-0000000,16.4,61.8,15,58.1,22.7,14.3,29,41.5,25,26.4,25.7,9.6,16,26.8,47.5
+644,Palmdale Elementary (Los Angeles),19-64857-0000000,25.3,56,9.7,60.6,20,43.8,24.4,31.7,20.1,19.4,19.8,6.1,13.7,26.7,53.6
+645,Palo Verde Unified (Riverside),33-67181-0000000,redacted,redacted,10.4,redacted,15,redacted,16.7,26,19.5,15.2,17.5,4.8,12.7,24.1,58.5
+646,Palo Verde Union Elementary (Tulare),54-72033-0000000,redacted,,,,33.8,,,36.6,35,33.5,34.3,9.8,24.4,28.7,37.1
+647,Palos Verdes Peninsula Unified (Los Angeles),19-64865-0000000,33.3,87,46.5,72.3,50.5,redacted,75.6,69.9,72.7,72.1,72.4,46.8,25.7,18,9.6
+648,Panama-Buena Vista Union (Kern),15-63362-0000000,25.6,59,16.5,58.1,26,38.8,46.2,44.3,32.2,32.7,32.4,12.8,19.7,30.3,37.3
+649,Panoche Elementary (San Benito),35-67520-0000000,,,,,redacted,,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+650,Paradise Elementary (Stanislaus),50-71209-0000000,,,,,41,,,redacted,39.4,50.7,45.3,24.1,21.2,29.9,24.8
+651,Paradise Unified (Butte),04-61531-0000000,16.1,37.5,redacted,redacted,21.8,redacted,22.9,27.7,27.3,25.2,26.2,8.2,18.1,30.9,42.9
+652,Paramount Unified (Los Angeles),19-64873-0000000,redacted,44.8,15,41.4,28.7,22.8,31.4,35.5,27.4,28.5,27.9,10,17.9,29.2,42.9
+653,Parlier Unified (Fresno),10-62364-0000000,redacted,redacted,,redacted,14.6,,,9.1,14.3,15,14.6,3.2,11.5,22.9,62.4
+654,Pasadena Unified (Los Angeles),19-64881-0000000,36.4,79.4,20.8,56.4,22.8,20,66.7,58.3,33.4,33,33.2,15.6,17.6,24.7,42.2
+655,Paso Robles Joint Unified (San Luis Obispo),40-75457-0000000,38.5,70.8,19.6,66.7,24.5,redacted,43.4,49.4,35.6,34.8,35.2,13.3,21.9,28.2,36.6
+656,Patterson Joint Unified (Stanislaus),50-71217-0000000,18.2,45.5,23.6,37.3,20.4,25.5,36.3,36.3,24.2,23.5,23.8,6.8,17.1,30,46.2
+657,Peninsula Union (Humboldt),12-62984-0000000,,,,,redacted,,,12.5,18.2,redacted,11.1,0,11.1,33.3,55.6
+658,Penn Valley Union Elementary (Nevada),29-76877-0000000,redacted,redacted,redacted,,41.5,,50,39,40,40,40,13.3,26.8,30.1,29.9
+659,Perris Elementary (Riverside),33-67199-0000000,redacted,61.5,12.7,redacted,22.7,redacted,redacted,37.6,23.5,21.6,22.6,6.7,15.9,28.6,48.9
+660,Perris Union High (Riverside),33-67207-0000000,redacted,29.1,11.3,45.6,12.7,0,24.3,24.1,14.7,15.2,14.9,3.3,11.6,26.4,58.7
+661,Petaluma City Elementary (Sonoma),49-70854-0000000,redacted,80,23.5,redacted,28.8,redacted,54.8,60,49,49.7,49.3,23.4,25.9,27.7,22.9
+662,Petaluma City Elementary/Joint Union High (Sonoma),49-40246-0000000,,,,,,,,,,,,,,,
+663,Petaluma Joint Union High (Sonoma),49-70862-0000000,41.2,69.7,19.4,58.3,27.8,63.6,54.6,54.4,45.9,46,45.9,19.4,26.6,28.7,25.4
+664,Pierce Joint Unified (Colusa),06-61614-0000000,,redacted,8.3,redacted,22.7,redacted,redacted,47.2,24.8,31.9,28,8.6,19.4,34.2,37.9
+665,Pine Ridge Elementary (Fresno),10-62372-0000000,,,redacted,,redacted,,,35.2,37.5,29.6,33.9,13.6,20.3,33.9,32.2
+666,Piner-Olivet Union Elementary (Sonoma),49-70870-0000000,redacted,redacted,redacted,redacted,12.8,redacted,18.2,30,23,11.5,18,3,15,30,52
+667,Pioneer Union Elementary (El Dorado),09-61945-0000000,redacted,redacted,redacted,redacted,27.8,,40,38.4,42.3,32.3,37.7,11.6,26.1,31.4,30.9
+668,Pioneer Union Elementary (Butte),04-73379-0000000,redacted,,,,redacted,,redacted,10.3,10,10,10,2.5,7.5,37.5,52.5
+669,Pioneer Union Elementary (Kings),16-63990-0000000,redacted,61,28.6,52.6,37.7,46.2,47.1,53.6,45.9,44.4,45.2,19.1,26.1,32,22.8
+670,Pittsburg Unified (Contra Costa),07-61788-0000000,40,36.7,11.8,46.3,18.1,24.2,24.2,27.4,19,20.8,19.9,5.9,14,28.1,52
+671,Pixley Union Elementary (Tulare),54-72041-0000000,redacted,redacted,7.7,,11.2,,,28,11.1,12.5,11.8,3.3,8.5,24.7,63.6
+672,Placentia-Yorba Linda Unified (Orange),30-66647-0000000,58.3,88.2,37.9,75.7,41,52.2,76.8,66.7,60.4,58.5,59.4,34.3,25.2,22.3,18.3
+673,Placer County Office of Education (Placer),31-10314-0000000,redacted,redacted,redacted,,7.7,,redacted,47.9,43.7,36.4,40.2,20.7,19.5,22,37.8
+674,Placer Hills Union Elementary (Placer),31-66886-0000000,redacted,redacted,redacted,redacted,39.5,redacted,55.6,52.5,52.2,50.7,51.5,23.7,27.8,30.3,18.2
+675,Placer Union High (Placer),31-66894-0000000,25,redacted,redacted,redacted,31.5,redacted,60.3,53.7,48.5,53.9,51.1,19.4,31.7,25,23.9
+676,Placerville Union Elementary (El Dorado),09-61952-0000000,redacted,redacted,redacted,redacted,23.6,redacted,42.1,48.6,43.2,38.9,41.1,17.7,23.4,34.5,24.5
+677,Plainsburg Union Elementary (Merced),24-65813-0000000,,,,,18,,,21.7,20.9,19.1,20,3.5,16.5,34.1,45.9
+678,Planada Elementary (Merced),24-65821-0000000,redacted,redacted,redacted,,12.3,,,redacted,12.5,12.6,12.5,2.2,10.3,31.3,56.2
+679,Plaza Elementary (Glenn),11-62638-0000000,redacted,redacted,,,27,,redacted,54.3,50,45.9,48.1,16.3,31.8,35.7,16.3
+680,Pleasant Grove Joint Union (Sutter),51-71431-0000000,redacted,redacted,redacted,,35.3,redacted,redacted,56.7,47.5,58.1,52.9,23.6,29.3,36.6,10.6
+681,Pleasant Ridge Union Elementary (Nevada),29-66373-0000000,redacted,redacted,redacted,redacted,38.3,redacted,40.4,49.1,49.6,45.1,47.6,21.1,26.5,31.3,21.1
+682,Pleasant Valley (Ventura),56-72553-0000000,26.7,77.1,24.3,54.9,30.9,58.3,52.1,57.3,49.6,46.9,48.3,23.5,24.8,28.6,23.1
+683,Pleasant Valley Joint Union Elementary (San Luis Obispo),40-68791-0000000,,,,,30.4,redacted,redacted,16.7,38.9,16.2,23.6,5.5,18.2,34.6,41.8
+684,Pleasant View Elementary (Tulare),54-72058-0000000,redacted,,,4.8,10,,,redacted,10.7,8.6,9.6,1.8,7.8,25,65.4
+685,Pleasanton Unified (Alameda),01-75101-0000000,redacted,91.2,46.8,72.8,47.8,53.3,75.4,71.7,77,76.8,76.9,52.2,24.8,14.5,8.6
+686,Plumas County Office of Education (Plumas),32-10322-0000000,redacted,,redacted,,redacted,,redacted,0,0,redacted,0,0,0,16.7,83.3
+687,Plumas Lake Elementary (Yuba),58-72744-0000000,50,48.6,24.1,64.3,31.8,redacted,38.6,42.6,43.5,35.4,39.9,17.5,22.4,33.4,26.7
+688,Plumas Unified (Plumas),32-66969-0000000,20.8,redacted,18.2,redacted,20.1,,25.6,37.3,30.9,34.8,33,10.7,22.3,30.3,36.8
+689,Point Arena Joint Union High (Mendocino),23-65599-0000000,redacted,,,,0,,,18.2,0,11.8,6.5,3.2,3.2,6.5,87.1
+690,Pollock Pines Elementary (El Dorado),09-61960-0000000,redacted,redacted,redacted,redacted,19.7,redacted,redacted,35,34.8,30.5,32.7,12.9,19.8,36.7,30.7
+691,Pomona Unified (Los Angeles),19-64907-0000000,34.5,62.4,15.5,56.7,22.8,22.2,41.7,44,25.2,24.9,25.1,8.1,17,28.4,46.6
+692,Pond Union Elementary (Kern),15-63719-0000000,redacted,redacted,,,20.2,,,redacted,17.7,26.5,22.3,6.2,16.2,33.1,44.6
+693,Pope Valley Union Elementary (Napa),28-66282-0000000,redacted,,,,8,,redacted,7.1,8.3,5.6,7.1,2.4,4.8,33.3,59.5
+694,Porterville Unified (Tulare),54-75523-0000000,19.1,41.1,26.5,55.3,20.8,13.3,38.2,31.7,22.6,23.2,22.9,6.9,16,27.6,49.6
+695,Portola Valley Elementary (San Mateo),41-68981-0000000,,86.4,redacted,,46,redacted,94.1,88.5,80.7,81.8,81.2,60,21.2,12.9,5.9
+696,Potter Valley Community Unified (Mendocino),23-73866-0000000,redacted,,redacted,,14.3,,redacted,22.5,15.5,25,19.9,3.1,16.8,36.6,43.5
+697,Poway Unified (San Diego),37-68296-0000000,47.2,85.9,39.7,66.6,43.9,39.7,68.9,66,67,65.9,66.5,40.5,25.9,20.8,12.8
+698,Princeton Joint Unified (Glenn),11-62646-0000000,,,redacted,,25.8,,,52.8,37,32,34.6,13.5,21.2,30.8,34.6
+699,Raisin City Elementary (Fresno),10-62380-0000000,,redacted,,,15.2,,,redacted,17.4,12,15,2.4,12.6,26.4,58.7
+700,Ramona City Unified (San Diego),37-68304-0000000,39.3,47.6,22.2,redacted,24.6,redacted,39.5,47.7,40.7,35.9,38.4,14.8,23.6,30.3,31.3
+701,Ravendale-Termo Elementary (Lassen),18-64162-0000000,,,,,redacted,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+702,Ravenswood City Elementary (San Mateo),41-68999-0000000,redacted,redacted,8.5,redacted,13.1,11.7,15.8,redacted,13.1,12.3,12.7,2.8,10,25.9,61.4
+703,Raymond-Knowles Union Elementary (Madera),20-65276-0000000,redacted,redacted,,redacted,30.8,,redacted,37.5,32.1,39.4,36.1,6.6,29.5,47.5,16.4
+704,Red Bluff Joint Union High (Tehama),52-71639-0000000,16.7,redacted,redacted,redacted,10.4,,redacted,18.4,17.3,15.1,16.1,4,12.1,27.4,56.5
+705,Red Bluff Union Elementary (Tehama),52-71621-0000000,23.5,redacted,14.3,redacted,22.9,redacted,30.4,36.4,30.9,30.1,30.5,11.5,19.1,29.2,40.3
+706,Redding Elementary (Shasta),45-70110-0000000,36.4,50,33.3,redacted,32.2,redacted,31.3,45.5,43.5,41,42.2,18.9,23.3,29.2,28.6
+707,Redlands Unified (San Bernardino),36-67843-0000000,42.5,71.8,25.8,65.4,33,29,54.6,55.6,43.6,44.7,44.1,21.3,22.8,27,28.9
+708,Redondo Beach Unified (Los Angeles),19-75341-0000000,47.1,81.8,40.2,74.7,48.2,52.6,71.7,71.4,66,65.2,65.6,37.8,27.8,20.9,13.5
+709,Redwood City Elementary (San Mateo),41-69005-0000000,redacted,77.8,30.2,70.2,27,23.3,72.5,69.7,38.9,38.8,38.9,19.2,19.7,26.4,34.7
+710,Reed Union Elementary (Marin),21-65425-0000000,redacted,83.8,redacted,redacted,62.2,redacted,92,79,79.7,78.4,79,49.9,29.2,15.1,5.9
+711,Reeds Creek Elementary (Tehama),52-71647-0000000,redacted,redacted,redacted,,redacted,,,26,28.6,20.8,24.7,9.3,15.5,30.9,44.3
+712,Reef-Sunset Unified (Kings),16-73932-0000000,redacted,,,,13.9,,redacted,15,14,13.9,13.9,3.2,10.7,21.9,64.2
+713,Rescue Union Elementary (El Dorado),09-61978-0000000,redacted,82.6,56.5,56.5,48.8,redacted,70.5,65.2,64.1,63,63.6,33.9,29.7,24.1,12.3
+714,Rialto Unified (San Bernardino),36-67850-0000000,18.2,50.8,13.4,44.8,17.8,20,29.1,28.9,18,18.6,18.3,4.7,13.5,27.4,54.3
+715,Richfield Elementary (Tehama),52-71654-0000000,redacted,redacted,redacted,,31.6,,redacted,41.9,37.5,36.7,37,9.3,27.8,33.3,29.6
+716,Richgrove Elementary (Tulare),54-72082-0000000,redacted,redacted,,redacted,9.2,,,redacted,11.8,6.9,9.4,1.7,7.6,22.9,67.7
+717,Richland Union Elementary (Kern),15-63578-0000000,,16.7,redacted,,22.6,redacted,redacted,36.2,22.7,23.3,23,6.9,16.1,26.4,50.6
+718,Richmond Elementary (Lassen),18-64170-0000000,,,,,56.3,redacted,redacted,48.8,43.1,53.2,48.3,11.3,37.1,35.8,15.9
+719,Rim of the World Unified (San Bernardino),36-67868-0000000,redacted,66.7,13.3,redacted,18.1,redacted,24.4,28.9,25.3,23.7,24.5,7.2,17.3,32.3,43.2
+720,Rincon Valley Union Elementary (Sonoma),49-70896-0000000,36.4,71.3,37.7,52.2,29,24.2,54.4,56.2,49.4,46.5,48,21,27,28.1,24
+721,Rio Bravo-Greeley Union Elementary (Kern),15-73544-0000000,35.7,30.8,redacted,redacted,24,redacted,,39.8,33.6,32.3,33,13.1,19.9,33,34
+722,Rio Dell Elementary (Humboldt),12-63008-0000000,18.2,,redacted,redacted,5.8,,16.7,21.3,14.3,20.2,17.3,4.2,13.1,35.1,47.7
+723,Rio Elementary (Ventura),56-72561-0000000,redacted,71,29,57.3,21.4,redacted,40.8,46.4,25.5,23.5,24.5,8.1,16.4,29.8,45.7
+724,Ripon Unified (San Joaquin),39-68650-0000000,redacted,75,45.5,65,36.3,redacted,53.2,49.6,45.8,46.8,46.3,20.9,25.4,31.9,21.8
+725,River Delta Joint Unified (Sacramento),34-67413-0000000,redacted,redacted,21.4,redacted,24.9,redacted,41.7,35.3,30.2,28.8,29.5,11.2,18.3,32.5,38.1
+726,Riverbank Unified (Stanislaus),50-75556-0000000,redacted,redacted,28.6,redacted,20.1,redacted,redacted,27.2,20.4,22.7,21.5,5.3,16.3,29.3,49.2
+727,Riverdale Joint Unified (Fresno),10-75408-0000000,redacted,redacted,redacted,redacted,22.6,,redacted,37.2,27.2,23.6,25.5,5.8,19.6,32.7,41.9
+728,Riverside County Office of Education (Riverside),33-10330-0000000,redacted,,2.6,redacted,1.3,redacted,redacted,3.2,1.7,2.2,1.9,0.3,1.5,5.8,92.3
+729,Riverside Unified (Riverside),33-67215-0000000,27.5,71.6,27,70.5,26.1,37.5,53.8,49.8,34.6,33.6,34.1,14,20.2,28.8,37.1
+730,Roberts Ferry Union Elementary (Stanislaus),50-71233-0000000,,redacted,redacted,,32.1,,redacted,36.2,37.5,32.7,34.5,11.5,23,37.9,27.6
+731,Robla Elementary (Sacramento),34-67421-0000000,26.7,31.1,15.8,37.5,22.5,14.3,29.4,39.4,24.9,25.7,25.3,7,18.3,30,44.7
+732,Rockford Elementary (Tulare),54-72090-0000000,redacted,redacted,,redacted,20.2,,redacted,34.6,30.3,23.7,27.1,2.5,24.6,34.6,38.3
+733,Rocklin Unified (Placer),31-75085-0000000,37.1,81,46.9,71.8,47.6,50,66.4,63.1,62.2,62.3,62.2,32.4,29.9,24.6,13.1
+734,Romoland Elementary (Riverside),33-67231-0000000,redacted,60,22.1,61.7,25.4,46.7,44.4,37,30.1,28.2,29.2,9.3,19.8,29.1,41.7
+735,Rosedale Union Elementary (Kern),15-63750-0000000,39.3,71.5,36.1,67.8,39.3,redacted,64.9,53.1,50.6,47.7,49.2,22.6,26.6,28.9,22
+736,Roseland (Sonoma),49-70904-0000000,25,41.7,redacted,redacted,30.3,redacted,35,38.5,34.9,27.6,31.1,10.1,21,34.9,34
+737,Rosemead Elementary (Los Angeles),19-64931-0000000,redacted,74.5,redacted,65,27,,redacted,46.7,51.5,55.4,53.5,28.6,24.8,25.6,20.9
+738,Roseville City Elementary (Placer),31-66910-0000000,17.9,71.7,35.4,72.4,33.5,44.8,57.6,55.4,51.7,51.6,51.7,24.2,27.5,27.9,20.4
+739,Roseville Joint Union High (Placer),31-66928-0000000,redacted,70.8,39.1,69.9,33.4,33.3,59.9,49.3,50.7,46.8,48.8,20,28.8,27.9,23.3
+740,Ross Elementary (Marin),21-65433-0000000,redacted,redacted,,,76.5,redacted,redacted,80,79.8,78.8,79.3,52.6,26.7,15.4,5.3
+741,Ross Valley Elementary (Marin),21-75002-0000000,redacted,76.7,31.3,redacted,54,redacted,72.7,73.9,73.3,68.9,71.2,40.9,30.3,20.1,8.7
+742,Round Valley Joint Elementary (Inyo),14-63305-0000000,redacted,,,,43.8,,redacted,66.7,57.5,63.6,60.7,35.7,25,27.4,11.9
+743,Round Valley Unified (Mendocino),23-65607-0000000,13.2,,,,10.8,,redacted,redacted,15.8,9.5,12.7,2,10.7,26,61.3
+744,Rowland Unified (Los Angeles),19-73452-0000000,redacted,76,25.6,57.7,26.1,31.3,69.6,46.5,40.1,40.9,40.5,18.3,22.2,27,32.5
+745,Sacramento City Unified (Sacramento),34-67439-0000000,23.6,42.3,14.4,42.5,22.8,18.4,38.9,51.8,31.2,31.8,31.5,13.7,17.8,26.5,42
+746,Sacramento County Office of Education (Sacramento),34-10348-0000000,redacted,redacted,1.8,redacted,1.5,redacted,0,4.8,3.6,0,2.7,0,2.7,9.1,88.2
+747,Saddleback Valley Unified (Orange),30-73635-0000000,59.3,80.7,29.3,55.2,31,48.5,64.7,62,52.7,50.9,51.8,26.7,25.2,26.4,21.8
+748,Saint Helena Unified (Napa),28-66290-0000000,redacted,redacted,,,29.3,,redacted,72.4,53.3,46.5,49.8,25,24.8,29.8,20.4
+749,Salida Union Elementary (Stanislaus),50-71266-0000000,redacted,41.5,26.5,66.7,25,27.3,38.5,37.5,30.2,28.2,29.2,9.6,19.6,32,38.8
+750,Salinas City Elementary (Monterey),27-66142-0000000,redacted,53.1,5.4,32.8,16.2,redacted,32.1,36.7,19.2,16.6,17.9,4.8,13.1,28.5,53.6
+751,Salinas Union High (Monterey),27-66159-0000000,redacted,53.1,15.7,44.6,19.2,45.5,23.5,34.2,20.3,22,21.2,5.6,15.5,27.2,51.6
+752,San Antonio Union Elementary (Monterey),27-66167-0000000,redacted,,redacted,redacted,14.7,,redacted,10,20,17.4,18.9,0.9,18,29.7,51.4
+753,San Ardo Union Elementary (Monterey),27-66175-0000000,,,,,5,,,redacted,6.3,3.3,4.8,0,4.8,25.8,69.4
+754,San Benito County Office of Education (San Benito),35-10355-0000000,,,,,0,,,redacted,0,redacted,0,0,0,19.2,80.8
+755,San Benito High (San Benito),35-67538-0000000,redacted,54.6,redacted,redacted,25.4,,redacted,43.9,31.4,30.2,30.9,9.8,21.1,31.6,37.6
+756,San Bernardino City Unified (San Bernardino),36-67876-0000000,21.1,48,14.1,52.3,23.3,21.8,24.2,33.5,23.1,23.5,23.3,7.2,16.1,29.1,47.6
+757,San Bernardino County Office of Education (San Bernardino),36-10363-0000000,redacted,redacted,0.9,redacted,1.7,redacted,redacted,4.2,1.5,3.5,1.9,0.2,1.7,6.9,91.1
+758,San Bruno Park Elementary (San Mateo),41-69013-0000000,redacted,70.6,35.5,64.2,33.4,33.7,60,57.9,47.3,48.3,47.8,19.1,28.7,26.3,25.9
+759,San Carlos Elementary (San Mateo),41-69021-0000000,redacted,88.6,23.1,69.2,56.3,redacted,81.9,75.4,75,71.9,73.5,47.6,25.9,17,9.6
+760,San Diego County Office of Education (San Diego),37-10371-0000000,redacted,redacted,1.1,redacted,2.2,redacted,0,6.8,2.6,3.3,2.9,0,2.9,11.8,85.4
+761,San Diego Unified (San Diego),37-68338-0000000,44.2,69,25.4,57.6,29.7,35.6,59.4,68.1,46.6,45.4,46,24.3,21.7,24.9,29.1
+762,San Dieguito Union High (San Diego),37-68346-0000000,68.2,91.7,36.8,81.6,47.8,72.7,82.2,71.3,71.3,72.1,71.7,48.3,23.4,16.8,11.5
+763,San Francisco County Office of Education (San Francisco),38-10389-0000000,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,11.1,23.5,17.1,11.4,5.7,20,62.9
+764,San Francisco Unified (San Francisco),38-68478-0000000,37.2,72.2,13.3,43.5,21.5,18.5,58.7,70.3,50.2,51.8,51,28.3,22.6,21.3,27.7
+765,San Gabriel Unified (Los Angeles),19-75291-0000000,redacted,69.4,26.3,64.7,23.3,redacted,49,45.7,49.4,51.4,50.4,26,24.4,24.1,25.4
+766,San Jacinto Unified (Riverside),33-67249-0000000,25.8,58.5,13.7,38.7,18.6,25,26.2,28.8,21.1,19.8,20.5,5.7,14.7,28.2,51.3
+767,San Joaquin County Office of Education (San Joaquin),39-10397-0000000,redacted,7.1,0,redacted,0.6,redacted,6.7,1.8,1.3,1.1,1.2,0.3,0.9,6.4,92.4
+768,San Jose Unified (Santa Clara),43-69666-0000000,27.1,81.9,26.9,48.8,22.1,28.1,65.2,63.5,45,42.2,43.6,23.5,20.1,23.8,32.6
+769,San Juan Unified (Sacramento),34-67447-0000000,18.6,54.5,13.1,40.1,20,25,32.5,40.6,34.1,34,34.1,15.1,19,26.9,39
+770,San Leandro Unified (Alameda),01-61291-0000000,25,52.3,10.4,33.7,17.8,11.7,32.7,36.7,26,25.2,25.6,9.4,16.2,29.2,45.2
+771,San Lorenzo Unified (Alameda),01-61309-0000000,27.8,55.5,7.3,39.2,15.4,18.9,27.3,27.7,23.5,22.5,23,7.7,15.3,29.6,47.4
+772,San Lorenzo Valley Unified (Santa Cruz),44-69807-0000000,redacted,redacted,redacted,redacted,26.1,redacted,43.6,45.4,41.4,44.5,42.9,18.5,24.4,29,28.1
+773,San Lucas Union Elementary (Monterey),27-66183-0000000,redacted,,,,6.3,redacted,,redacted,17.7,0,7.7,0,7.7,38.5,53.9
+774,San Luis Coastal Unified (San Luis Obispo),40-68809-0000000,38.5,80.7,37.9,60,40,redacted,72.6,71.4,61.5,61.6,61.6,34,27.5,21.2,17.3
+775,San Luis Obispo County Office of Education (San Luis Obispo),40-10405-0000000,redacted,redacted,redacted,redacted,1.5,redacted,redacted,6.7,3,1.8,2.6,0,2.6,5.2,92.2
+776,San Marcos Unified (San Diego),37-73791-0000000,41.7,81.9,36.3,70.5,30.9,44.7,redacted,64.6,50.3,49.2,49.7,25.8,24,25.2,25
+777,San Mateo County Office of Education (San Mateo),41-10413-0000000,,redacted,redacted,redacted,0,redacted,redacted,redacted,2.6,0,2,0,2,5.9,92.2
+778,San Mateo Union High (San Mateo),41-69047-0000000,redacted,85.2,27.3,58.7,26.9,23.1,58.7,64.6,55.3,56.5,55.8,31.7,24.2,20.6,23.6
+779,San Mateo-Foster City (San Mateo),41-69039-0000000,redacted,83.9,32.5,56.5,23.7,28.5,75.2,67.1,55.4,54.3,54.9,33.3,21.6,21.9,23.2
+780,San Miguel Joint Union (San Luis Obispo),40-68825-0000000,redacted,,redacted,redacted,30.2,redacted,redacted,39.7,32.5,35.6,34,10,24,34.8,31.3
+781,San Pasqual Union Elementary (San Diego),37-68353-0000000,redacted,redacted,redacted,redacted,35.7,,73.9,59.5,55.3,50.5,52.8,22,30.8,30.8,16.4
+782,San Pasqual Valley Unified (Imperial),13-63214-0000000,10.4,,,,14.2,,12.5,redacted,12.4,12.6,12.5,2.9,9.6,23.2,64.3
+783,San Rafael City Elementary (Marin),21-65458-0000000,redacted,80,30.3,redacted,23.2,redacted,18.2,75.4,41.1,36.3,38.7,18.7,20,25.4,35.9
+784,San Rafael City High (Marin),21-65466-0000000,redacted,54.3,redacted,redacted,14.7,,redacted,49.5,27.1,31.6,29.3,10.8,18.5,24.5,46.2
+785,San Ramon Valley Unified (Contra Costa),07-61804-0000000,85.7,90.4,48,76.7,59.4,77.1,75.5,70,77.4,76.7,77.1,50.3,26.8,15.9,7
+786,San Ysidro Elementary (San Diego),37-68379-0000000,redacted,41.7,31.6,72.4,24.2,redacted,51.6,50,28.1,26.1,27.1,9.9,17.2,28.5,44.4
+787,Sanger Unified (Fresno),10-62414-0000000,52.9,52.7,33.8,86.4,33.4,redacted,52,57.9,37.6,41.7,39.6,15.6,24,29.8,30.6
+788,Santa Ana Unified (Orange),30-66670-0000000,25.5,65.7,17.1,58.2,21.1,38.7,38.5,46.1,22.8,22,22.4,7.1,15.3,29.6,48
+789,Santa Barbara County Office of Education (Santa Barbara),42-10421-0000000,redacted,redacted,redacted,,1.5,,redacted,27.8,8,6.7,7.8,5.6,2.2,5.6,86.7
+790,Santa Barbara Unified (Santa Barbara),42-76786-0000000,40.6,74,32.9,61.5,26.8,redacted,76.7,67.3,43,42.3,42.7,21.4,21.3,25.6,31.7
+791,Santa Clara County Office of Education (Santa Clara),43-10439-0000000,redacted,redacted,redacted,redacted,0.8,redacted,redacted,10.5,2.5,0,1.8,0,1.8,10.4,87.8
+792,Santa Clara Elementary (Ventura),56-72579-0000000,,,,,38.5,,redacted,61.5,54.6,55.6,55.2,37.9,17.2,34.5,10.3
+793,Santa Clara Unified (Santa Clara),43-69674-0000000,33.3,77.8,30.6,50.2,23.3,17,57.4,60.6,49.2,49.5,49.4,28,21.4,23.6,27.1
+794,Santa Cruz City Elementary (Santa Cruz),44-69815-0000000,redacted,63.3,7.7,redacted,22.3,redacted,62.5,61.3,46.8,43.8,45.3,18.9,26.4,25.5,29.2
+795,Santa Cruz City Elementary/High (Santa Cruz),44-40261-0000000,,,,,,,,,,,,,,,
+796,Santa Cruz City High (Santa Cruz),44-69823-0000000,redacted,72.6,39.1,35,21.2,redacted,62.8,54.1,40,43.4,41.6,18.3,23.3,25.6,32.8
+797,Santa Cruz County Office of Education (Santa Cruz),44-10447-0000000,redacted,88.2,redacted,,17.8,,68.4,56.2,44.1,46.4,45.2,26.3,18.9,15.6,39.2
+798,Santa Maria Joint Union High (Santa Barbara),42-69310-0000000,redacted,65,13.6,39,16.9,redacted,12.5,19.7,16.4,20,18.1,4.5,13.6,23.8,58.1
+799,Santa Maria-Bonita (Santa Barbara),42-69120-0000000,26.3,33.9,20,46.4,20.3,redacted,40,31.6,21.1,21.3,21.2,6,15.2,30.1,48.8
+800,Santa Monica-Malibu Unified (Los Angeles),19-64980-0000000,71.4,84.9,35.9,69.8,40.2,redacted,72.4,74.1,61.9,61.7,61.8,37,24.8,21.5,16.7
+801,Santa Paula Unified (Ventura),56-76828-0000000,redacted,redacted,redacted,,22.6,redacted,redacted,38.5,23.2,23.5,23.3,6.6,16.7,29.1,47.6
+802,Santa Rita Union Elementary (Monterey),27-66191-0000000,redacted,53.6,20,40.5,19.4,redacted,redacted,34.1,21.9,21.4,21.7,6.8,14.9,34,44.4
+803,Santa Rosa Elementary (Sonoma),49-70912-0000000,5.3,59.6,23.4,45.2,16.6,redacted,45.6,45.1,29.1,24.7,26.9,9.5,17.4,30.5,42.7
+804,"Santa Rosa Elementary-High, City Of (Sonoma)",49-40253-0000000,,,,,,,,,,,,,,,
+805,Santa Rosa High (Sonoma),49-70920-0000000,20.9,61,21.9,52,16.2,11.1,45.3,50.9,33.4,34.1,33.7,16.6,17.1,22.6,43.7
+806,Santa Ynez Valley Union High (Santa Barbara),42-69328-0000000,redacted,redacted,redacted,,28.3,,redacted,66.4,51.6,44.9,48.5,15.6,32.9,24.7,26.8
+807,Santee (San Diego),37-68361-0000000,33.3,64.7,28.1,65.3,39.8,57.1,51.6,50.3,48.1,46.7,47.4,21.1,26.3,28.8,23.8
+808,Saucelito Elementary (Tulare),54-72108-0000000,,,,,23.5,,redacted,43.5,25,36.7,31,15.5,15.5,37.9,31
+809,Saugus Union (Los Angeles),19-64998-0000000,41.7,80,40.7,67.8,36.5,60,60.4,54.6,52.8,49.1,51,22.4,28.7,29.9,19.1
+810,Sausalito Marin City (Marin),21-65474-0000000,,redacted,13.2,redacted,9.1,,redacted,redacted,15.8,15.4,15.6,5.2,10.4,33.8,50.7
+811,Savanna Elementary (Orange),30-66696-0000000,redacted,77.6,33.3,52.9,31.3,redacted,48.9,43.4,41.1,42.6,41.8,21.2,20.7,28.5,29.7
+812,SBC - High Tech High (San Diego),37-76471-0000000,,,,,,,,,,,,,,,
+813,SBE - Academia Avance Charter (Los Angeles),19-76968-0000000,,,,,15.3,,,,15.5,14,14.8,2.9,11.9,22.9,62.4
+814,SBE - Anahuacalmecac International University Preparatory of North America (Los Angeles),19-76885-0000000,,,redacted,,6,,redacted,redacted,7.6,4,5.8,1,4.9,22.3,71.8
+815,SBE - Audeo Charter II (San Diego),37-77032-0000000,,redacted,redacted,redacted,14.6,redacted,redacted,29,22.9,22,22.5,7.1,15.3,29.6,48
+816,SBE - Barack Obama Charter (Los Angeles),19-76547-0000000,redacted,,20.7,redacted,21.7,,redacted,redacted,19.5,23,21.2,3.2,18,31.4,47.4
+817,SBE - Baypoint Preparatory Academy (Riverside),33-76943-0000000,,redacted,27.3,redacted,19.8,redacted,redacted,38.2,29.5,29.6,29.5,13,16.6,35.8,34.7
+818,SBE - Lifeline Education Charter (Los Angeles),19-76497-0000000,,,17.1,,23,,redacted,,24.5,20.6,22.6,7.9,14.6,27.4,50
+819,SBE - Magnolia Science Academy Santa Ana (Orange),30-76893-0000000,redacted,redacted,redacted,,27.8,redacted,redacted,65.9,37,28.3,32.5,12.5,20,32.2,35.3
+820,SBE - New West Charter (Los Angeles),19-75663-0000000,redacted,79.5,27.6,redacted,36.5,redacted,68.2,66.8,56.7,56.8,56.7,31,25.8,27.1,16.2
+821,SBE - Olive Grove Charter (Santa Barbara),42-76950-0000000,,,redacted,redacted,3.9,redacted,redacted,15,12.9,9.9,11.1,2.9,8.2,23.4,65.5
+822,SBE - OnePurpose (San Francisco),38-76919-0000000,,,,,,,,,,,,,,,
+823,SBE - Paramount Collegiate Academy (Sacramento),34-76935-0000000,,redacted,redacted,,16.7,,,25,20.7,20.8,20.8,5.7,15.1,18.9,60.4
+824,SBE - Prepa Tec Los Angeles High (Los Angeles),19-76992-0000000,,,,,,,,,,,,,,,
+825,SBE - Ridgecrest Charter (Kern),15-75630-0000000,,redacted,redacted,redacted,21.3,,12.5,35,28,28.5,28.3,10.6,17.7,39.2,32.5
+826,SBE - Rocketship Futuro Academy (Contra Costa),07-77024-0000000,,,,,,,,,,,,,,,
+827,SBE - The New School of San Francisco (San Francisco),38-76927-0000000,,,,,,,,,,,,,,,
+828,SBE - The School of Arts and Enterprise (Los Angeles),19-75697-0000000,redacted,redacted,11.8,redacted,17.1,redacted,redacted,25.6,23.5,15.5,18.7,4.1,14.6,29.3,52
+829,SBE - Thrive Public (San Diego),37-76901-0000000,redacted,redacted,0,redacted,12.9,redacted,redacted,35.2,23.3,14.1,19.6,7.2,12.4,25.8,54.6
+830,Scotia Union Elementary (Humboldt),12-63024-0000000,redacted,redacted,,,35.3,,25,38.3,37,38.8,37.6,12.1,25.5,31.9,30.5
+831,Scott Valley Unified (Siskiyou),47-76455-0000000,27.1,redacted,redacted,,52.3,,33.3,52.9,47.2,50,48.4,22.5,26,30.6,21
+832,Scotts Valley Unified (Santa Cruz),44-75432-0000000,redacted,91.8,redacted,redacted,42.2,,78.7,66,66.6,62.6,64.6,36.1,28.5,22.9,12.6
+833,Sebastopol Union Elementary (Sonoma),49-70938-0000000,redacted,redacted,redacted,,21,redacted,52.6,40.1,30.3,33.3,31.7,13.1,18.6,28.2,40.1
+834,Seeley Union Elementary (Imperial),13-63222-0000000,,,redacted,redacted,31.9,,redacted,58.3,35.5,31.5,33.7,12.9,20.8,32.2,34.2
+835,Seiad Elementary (Siskiyou),47-70458-0000000,redacted,,,,redacted,redacted,redacted,redacted,redacted,redacted,62.5,31.3,31.3,18.8,18.8
+836,Selma Unified (Fresno),10-62430-0000000,redacted,32.8,redacted,redacted,20.9,redacted,redacted,33.3,20.2,23.6,21.9,6,15.8,32.1,46
+837,Semitropic Elementary (Kern),15-63768-0000000,,,redacted,,9.9,,,redacted,15.5,6.9,10.8,2.5,8.2,29.1,60.1
+838,Sequoia Union Elementary (Tulare),54-72116-0000000,redacted,redacted,,,24.6,redacted,redacted,49.6,44.7,38.8,41.8,19.4,22.3,32.5,25.7
+839,Sequoia Union High (San Mateo),41-69062-0000000,redacted,87.4,25.6,72,22.5,12.8,66.1,75.8,51.7,51.2,51.5,28.4,23.1,17.8,30.7
+840,Shaffer Union Elementary (Lassen),18-64188-0000000,redacted,redacted,redacted,,31.7,redacted,redacted,27,28.1,28.8,28.5,7.8,20.7,31,40.5
+841,Shandon Joint Unified (San Luis Obispo),40-68833-0000000,redacted,,redacted,,17.5,redacted,redacted,43.8,23,23.3,23.1,4.4,18.8,26.9,50
+842,Shasta County Office of Education (Shasta),45-10454-0000000,redacted,redacted,redacted,redacted,redacted,,redacted,2.9,5.3,redacted,6.4,2.1,4.3,12.8,80.9
+843,Shasta Union Elementary (Shasta),45-70128-0000000,redacted,redacted,redacted,,redacted,redacted,,34.9,36.2,20.6,29.6,12.4,17.3,18.5,51.9
+844,Shasta Union High (Shasta),45-70136-0000000,24.3,59.2,27.3,redacted,39.7,redacted,66.7,51.1,47.1,52.3,49.7,23.4,26.3,25.5,24.8
+845,Shiloh Elementary (Stanislaus),50-71274-0000000,,,,,39.3,,redacted,39.1,42.9,31.3,36.7,10,26.7,38.9,24.4
+846,Shoreline Unified (Marin),21-73361-0000000,redacted,redacted,,,28.1,redacted,redacted,56,45.5,34.4,39.9,14,25.9,28.8,31.3
+847,Sierra County Office of Education (Sierra),46-10462-0000000,,,,,,,,,,,,,,,
+848,Sierra Sands Unified (Kern),15-73742-0000000,26.3,69,18.4,48.3,23.9,43.5,38.6,37.3,34,33.4,33.7,14.1,19.6,30.4,36
+849,Sierra Unified (Fresno),10-75275-0000000,24.8,redacted,redacted,redacted,28,,redacted,38.3,33.3,34.7,34,11.5,22.5,29.4,36.6
+850,Sierra-Plumas Joint Unified (Sierra),46-70177-0000000,redacted,redacted,redacted,,30.8,,redacted,36,27.6,40,33.8,10.5,23.3,42.4,23.8
+851,Silver Fork Elementary (El Dorado),09-61986-0000000,,,,,redacted,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+852,Silver Valley Unified (San Bernardino),36-73890-0000000,redacted,54.6,32.3,42.9,32.9,46.9,50,41.6,38.1,39.8,39,15.2,23.8,31.9,29.2
+853,Simi Valley Unified (Ventura),56-72603-0000000,22.2,72.1,31,51.1,27.3,41.7,55.2,47.7,42.3,42.8,42.5,18.2,24.4,28.8,28.7
+854,Siskiyou County Office of Education (Siskiyou),47-10470-0000000,redacted,,,,redacted,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+855,Siskiyou Union High (Siskiyou),47-70466-0000000,redacted,redacted,redacted,,24,redacted,5.6,36.7,30.8,29.2,29.9,5.8,24.1,33.6,36.5
+856,Snelling-Merced Falls Union Elementary (Merced),24-65839-0000000,,,,,33.3,,,41.7,31.3,47.1,36.7,8.2,28.6,40.8,22.5
+857,Snowline Joint Unified (San Bernardino),36-73957-0000000,18.2,77,11.3,64.7,26.5,41.2,26.1,43.5,32.4,34.8,33.6,13.2,20.4,30.3,36.1
+858,Solana Beach Elementary (San Diego),37-68387-0000000,redacted,93.1,redacted,redacted,53,redacted,83.8,80.5,82.8,77.3,80,54.9,25,14,6
+859,Solano County Office of Education (Solano),48-10488-0000000,,redacted,0,,0,,redacted,redacted,0,redacted,0,0,0,7.1,92.9
+860,Soledad Unified (Monterey),27-75440-0000000,redacted,45,16.7,39.3,17.4,redacted,redacted,21.8,17.7,18.5,18.1,4.8,13.3,30.4,51.5
+861,Solvang Elementary (Santa Barbara),42-69336-0000000,redacted,redacted,redacted,redacted,50.7,,redacted,76.9,64.6,59,61.6,27.3,34.2,25.9,12.6
+862,Somis Union (Ventura),56-72611-0000000,,,,redacted,38.5,,redacted,48.6,40,40.3,40.1,17.1,23,32.9,27
+863,Sonoma County Office of Education (Sonoma),49-10496-0000000,redacted,redacted,redacted,redacted,4.7,redacted,,3.1,2.9,6.7,3.5,0,3.5,7.1,89.4
+864,Sonoma Valley Unified (Sonoma),49-70953-0000000,redacted,48.7,redacted,45.5,14.7,redacted,38.5,44.4,25.5,26.4,25.9,8.9,17,28.9,45.1
+865,Sonora Elementary (Tuolumne),55-72371-0000000,redacted,64.3,,38.5,24.4,redacted,28.6,46.6,43.8,42.4,43.1,17.6,25.5,33.5,23.4
+866,Sonora Union High (Tuolumne),55-72389-0000000,redacted,redacted,redacted,,37.5,redacted,redacted,38.6,40.2,35.2,38,12,26,19.8,42.2
+867,Soquel Union Elementary (Santa Cruz),44-69849-0000000,redacted,78.3,redacted,redacted,30.9,redacted,53.4,58.4,52.1,46.6,49.4,23.7,25.7,26.2,24.4
+868,Soulsbyville Elementary (Tuolumne),55-72397-0000000,redacted,,redacted,,29.4,,19.1,27.2,25.6,29.3,27.4,12,15.4,38.5,34.2
+869,South Bay Union (San Diego),37-68395-0000000,redacted,41.7,22.3,46.4,26.4,35,33.3,48.2,30.6,27,28.8,8.8,20,30.7,40.6
+870,South Bay Union Elementary (Humboldt),12-63032-0000000,22.7,38.5,redacted,redacted,27.1,redacted,15.4,34.6,30.2,30.1,30.1,8.9,21.2,28.4,41.4
+871,South Fork Union (Kern),15-63784-0000000,redacted,,,,30,,redacted,26.2,30.6,25.4,28,9.1,18.9,28.7,43.4
+872,South Monterey County Joint Union High (Monterey),27-66068-0000000,redacted,redacted,redacted,redacted,11.9,,redacted,41.7,11.5,15.4,13.4,2.4,11,20.3,66.3
+873,South Pasadena Unified (Los Angeles),19-65029-0000000,redacted,90,56.4,82.6,60.5,redacted,89,79,77.2,80.2,78.7,55.9,22.8,14.3,7.1
+874,South San Francisco Unified (San Mateo),41-69070-0000000,redacted,73.6,26.3,56.9,29.7,30.3,55.8,44.9,42.9,44.8,43.9,21.3,22.6,27.1,29.1
+875,South Whittier Elementary (Los Angeles),19-65037-0000000,redacted,redacted,redacted,60,20.5,redacted,redacted,26.6,20.4,22.5,21.5,6.6,14.9,28.8,49.8
+876,Southern Humboldt Joint Unified (Humboldt),12-63040-0000000,redacted,redacted,redacted,,29.1,redacted,25,31.5,30.4,31.7,31.1,11.3,19.8,34.3,34.6
+877,Southern Kern Unified (Kern),15-63776-0000000,20,46.2,6.2,30.8,14.8,redacted,27.3,22.8,16.6,17.5,17.1,3.9,13.2,27.7,55.2
+878,Southern Trinity Joint Unified (Trinity),53-73833-0000000,redacted,,,,redacted,,redacted,46.2,52.2,37.5,44.7,17,27.7,40.4,14.9
+879,Southside Elementary (San Benito),35-67553-0000000,,,redacted,,32.5,,redacted,47.1,46.8,43.3,44.7,17.1,27.6,37.5,17.8
+880,Spencer Valley Elementary (San Diego),37-68403-0000000,,,,,redacted,,redacted,redacted,redacted,redacted,83.3,25,58.3,16.7,0
+881,Spreckels Union Elementary (Monterey),27-66225-0000000,redacted,69.6,redacted,84.6,34.4,,60.7,54.4,53.3,47,50.1,20.4,29.7,30.2,19.7
+882,Springville Union Elementary (Tulare),54-72132-0000000,redacted,redacted,,redacted,19.2,,,34.6,30,31.9,30.8,11.2,19.6,35.1,34.1
+883,Standard Elementary (Kern),15-63792-0000000,29.6,redacted,13,redacted,13,,22.5,17.8,17.8,15.7,16.7,4.2,12.6,27.8,55.5
+884,Stanislaus County Office of Education (Stanislaus),50-10504-0000000,redacted,redacted,8.3,redacted,0.9,redacted,redacted,3.5,2,2.4,2.1,0,2.1,7.3,90.7
+885,Stanislaus Union Elementary (Stanislaus),50-71282-0000000,40,65.1,22.1,57.1,27.8,28.6,40,46.1,37.1,37,37.1,15.8,21.3,28.4,34.6
+886,Stockton Unified (San Joaquin),39-68676-0000000,18.6,30.8,10.2,44.4,17.2,18.6,22.1,23.6,19.7,19.1,19.4,5.8,13.6,27.5,53.1
+887,Stone Corral Elementary (Tulare),54-72140-0000000,,,,,4.8,,,,7.3,2.4,4.8,0,4.8,16.9,78.3
+888,Stony Creek Joint Unified (Glenn),11-62653-0000000,3.9,,,,redacted,,redacted,23.5,8.3,18.2,13,2.2,10.9,32.6,54.4
+889,Strathmore Union Elementary (Tulare),54-72157-0000000,33.3,,,,20.4,redacted,redacted,38.6,21.6,22.4,22,5.3,16.7,29.3,48.7
+890,Sulphur Springs Union (Los Angeles),19-65045-0000000,redacted,75.5,35.8,75.4,40.9,redacted,53.7,60.5,50,49.1,49.5,23.8,25.8,28.6,21.9
+891,Summerville Elementary (Tuolumne),55-72405-0000000,36,,redacted,,22.9,,50,34.2,32.4,35.5,33.7,11.4,22.4,35.3,31
+892,Summerville Union High (Tuolumne),55-72413-0000000,11.8,redacted,redacted,,29,redacted,redacted,31,24.7,32.4,28.8,7.3,21.5,26.8,44.4
+893,Sundale Union Elementary (Tulare),54-72173-0000000,redacted,redacted,redacted,redacted,40.7,,redacted,62.7,52,51.2,51.6,27.6,24,26.5,21.9
+894,Sunnyside Union Elementary (Tulare),54-72181-0000000,,,,,8.7,,,8,10,7.3,8.6,2.5,6.2,33.2,58.2
+895,Sunnyvale (Santa Clara),43-69690-0000000,24.3,84,24.6,52.9,21.4,29.7,76,71,55.8,52.5,54.2,35.1,19.1,22.3,23.5
+896,Sunol Glen Unified (Alameda),01-75119-0000000,,85.7,redacted,,76.9,redacted,92,71.2,79.8,77.3,78.4,47.3,31.1,18.6,3
+897,Surprise Valley Joint Unified (Modoc),25-65896-0000000,redacted,redacted,,,38.5,,,36.6,38.5,27.8,32.3,8.1,24.2,32.3,35.5
+898,Susanville Elementary (Lassen),18-64196-0000000,7.4,redacted,redacted,redacted,37,16.7,27.4,44.4,34.8,40.7,37.8,12.5,25.3,28.5,33.8
+899,Sutter County Office of Education (Sutter),51-10512-0000000,redacted,redacted,redacted,,3.6,redacted,redacted,0,2,0,1.5,0,1.5,4.6,93.9
+900,Sutter Union High (Sutter),51-71449-0000000,redacted,redacted,redacted,redacted,28.6,,50,35.6,31,38.7,35,8.3,26.7,22.8,42.2
+901,Sweetwater Union High (San Diego),37-68411-0000000,23.8,75.2,24.4,62.1,25.1,26.2,48,48.5,31.5,32,31.8,12.7,19.1,28,40.3
+902,Sylvan Union Elementary (Stanislaus),50-71290-0000000,48,58.4,18.7,71.2,29.4,30.2,42.9,44.4,37.9,38.6,38.3,16.3,22,30.3,31.4
+903,Taft City (Kern),15-63800-0000000,redacted,redacted,redacted,redacted,23.2,redacted,27.3,29.2,28.4,23.5,25.9,8.6,17.3,32.8,41.3
+904,Taft Union High (Kern),15-63818-0000000,redacted,redacted,redacted,,10.5,redacted,redacted,14.9,8.5,15.9,11.9,1.3,10.6,21.6,66.5
+905,Tahoe-Truckee Unified (Placer),31-66944-0000000,redacted,75,redacted,redacted,29.3,,68.1,69,54.4,52.9,53.7,26.7,27,25.4,21
+906,Tamalpais Union High (Marin),21-65482-0000000,redacted,75.8,16.7,redacted,33.9,redacted,redacted,62.7,58.3,60.1,59.2,29.4,29.8,21.1,19.7
+907,Tehachapi Unified (Kern),15-63826-0000000,35.3,65.4,19.4,41.7,19.7,redacted,24.2,34.9,30.1,30,30.1,9.9,20.1,31.6,38.3
+908,Tehama County Department of Education (Tehama),52-10520-0000000,redacted,,redacted,,7.4,,redacted,23,20.6,17.2,18.9,5.5,13.4,21.3,59.8
+909,Temecula Valley Unified (Riverside),33-75192-0000000,32.3,74.7,33.4,66.8,41.8,37.8,58.8,57.7,52.9,52.2,52.5,23.3,29.2,27.9,19.6
+910,Temple City Unified (Los Angeles),19-65052-0000000,redacted,79.2,26.3,48.5,31.8,redacted,58.7,50.6,66.2,66.7,66.4,39.2,27.3,20.3,13.3
+911,Templeton Unified (San Luis Obispo),40-68841-0000000,redacted,73.3,redacted,redacted,35.4,redacted,51.1,54.4,49.6,50.6,50.1,22,28.1,28.3,21.7
+912,Terra Bella Union Elementary (Tulare),54-72199-0000000,redacted,,redacted,redacted,14.8,,,17.7,16.1,13.5,14.8,3,11.8,29.6,55.6
+913,Thermalito Union Elementary (Butte),04-61549-0000000,11.8,23,7.7,redacted,22.9,redacted,21.5,21.4,20.8,21.6,21.2,5.9,15.3,34.7,44.1
+914,Three Rivers Union Elementary (Tulare),54-72207-0000000,,redacted,,redacted,33.3,,redacted,42.9,38.6,45.5,42.1,13.6,28.4,29.6,28.4
+915,Tipton Elementary (Tulare),54-72215-0000000,redacted,redacted,redacted,,26.7,,redacted,16.7,25.3,26,25.6,12.3,13.4,27.9,46.5
+916,Torrance Unified (Los Angeles),19-65060-0000000,44,80.2,32.2,59.6,38.5,50.9,70.2,58.6,58.8,59.4,59.1,31.5,27.6,23.8,17.1
+917,Tracy Joint Unified (San Joaquin),39-75499-0000000,30,45.7,17.2,49.2,19.6,22.5,34.7,39.5,28.9,28,28.4,9.7,18.8,28.3,43.3
+918,Traver Joint Elementary (Tulare),54-72223-0000000,,redacted,,,10.8,,,redacted,12.5,11.8,12.1,3.2,8.9,41.1,46.8
+919,Travis Unified (Solano),48-70565-0000000,40,62.5,21.9,55.6,31.3,39.4,42.2,46.1,40.2,42.1,41.1,15.8,25.3,33.4,25.5
+920,Tres Pinos Union Elementary (San Benito),35-67561-0000000,redacted,,,,13,,redacted,38.8,34.6,31,33,13.8,19.2,31.9,35.1
+921,Trinidad Union Elementary (Humboldt),12-63057-0000000,redacted,,,,redacted,,30.8,51,47.4,36.5,43,18,25,40.6,16.4
+922,Trinity Alps Unified (Trinity),53-76513-0000000,17.4,redacted,redacted,redacted,25.6,redacted,29.4,38.3,34.2,36.7,35.3,15.2,20.1,27.1,37.6
+923,Trinity Center Elementary (Trinity),53-71761-0000000,,,,,,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+924,Trinity County Office of Education (Trinity),53-10538-0000000,,,,,,,,,,,,,,,
+925,Trona Joint Unified (San Bernardino),36-67892-0000000,redacted,,redacted,,25.5,,redacted,27.8,24.1,25.4,24.7,7,17.6,28.9,46.5
+926,Tulare City (Tulare),54-72231-0000000,22.2,37.5,11.9,66.7,18.9,41.7,40.4,34.6,22.2,21.6,21.9,6.6,15.3,29.4,48.7
+927,Tulare County Office of Education (Tulare),54-10546-0000000,redacted,redacted,redacted,,6.8,,redacted,33.3,11.1,18.5,14.1,5.7,8.4,11,74.9
+928,Tulare Joint Union High (Tulare),54-72249-0000000,redacted,46.2,10.3,redacted,22.3,redacted,redacted,39,25.2,26.5,25.8,6.4,19.4,23.1,51.1
+929,Tulelake Basin Joint Unified (Modoc),25-73593-0000000,redacted,,redacted,,14.4,,redacted,25,19.8,13.3,16.4,6.4,10.1,36.5,47
+930,Tuolumne County Superintendent of Schools (Tuolumne),55-10553-0000000,,,,,redacted,,redacted,0,0,redacted,0,0,0,0,100
+931,Turlock Unified (Stanislaus),50-75739-0000000,23.5,51.4,15.4,55.6,20.6,34.8,38.8,39.9,28.1,29.4,28.8,10.8,18,29,42.3
+932,Tustin Unified (Orange),30-73643-0000000,43.5,86.5,28.9,64.9,29.5,36.7,71.7,66.4,51.9,53.6,52.7,30.4,22.3,23.8,23.5
+933,Twain Harte (Tuolumne),55-72421-0000000,redacted,redacted,,,51.9,redacted,redacted,51.5,52.8,46.9,50,19.2,30.8,26.7,23.3
+934,Twin Hills Union Elementary (Sonoma),49-70961-0000000,redacted,redacted,redacted,,37.5,redacted,49.3,53.3,52,48.7,50.3,20.6,29.7,29.7,20
+935,Twin Ridges Elementary (Nevada),29-66415-0000000,,,,,redacted,,27.3,37.1,37,23.1,30.2,11.3,18.9,34,35.9
+936,Twin Rivers Unified (Sacramento),34-76505-0000000,19.6,30.9,14.3,48.4,22.1,22.9,21.8,32.4,24.3,23.9,24.1,8.2,16,28.4,47.5
+937,Two Rock Union (Sonoma),49-70979-0000000,,,redacted,redacted,60,redacted,redacted,64.1,57.1,65,61,20.7,40.2,23.2,15.9
+938,Ukiah Unified (Mendocino),23-65615-0000000,16.5,46.2,9.1,50,17,redacted,28.6,30.9,22.4,23,22.7,6.8,15.9,28.2,49.1
+939,Union Elementary (Santa Clara),43-69708-0000000,redacted,95.1,48.9,82.4,43,71.4,82.5,77,75.5,75.9,75.7,51.8,23.9,14.8,9.5
+940,Union Hill Elementary (Nevada),29-66407-0000000,redacted,redacted,,redacted,17.9,redacted,25,32.6,33.5,29.3,31.3,10.4,20.9,33.9,34.7
+941,Union Joint Elementary (Marin),21-65516-0000000,,,,,redacted,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+942,Upland Unified (San Bernardino),36-75069-0000000,32,67.2,20.2,59.6,28.5,26.3,48.5,50.1,37.1,35.8,36.5,15.5,21,29.7,33.9
+943,Upper Lake Unified (Lake),17-76976-0000000,4.8,redacted,redacted,redacted,16.2,,redacted,19.1,15.7,17,16.4,2.7,13.7,25.9,57.7
+944,Vacaville Unified (Solano),48-70573-0000000,41.5,58,20.1,56,27.3,35,37,47.2,38.7,36.7,37.7,15,22.7,30.1,32.2
+945,Val Verde Unified (Riverside),33-75242-0000000,16,54,17.1,59.6,25,30.2,30.1,39,25.5,25.8,25.7,8.6,17.1,28.6,45.7
+946,Valle Lindo Elementary (Los Angeles),19-65078-0000000,,78.6,,redacted,38.7,,redacted,redacted,41,39.3,40.2,15.9,24.4,28.8,31
+947,Vallecito Union (Calaveras),05-61580-0000000,redacted,redacted,redacted,,36.1,,50,55.9,50,54.9,52.5,24,28.5,29.5,18
+948,Vallecitos Elementary (San Diego),37-68437-0000000,,,,,38.8,,redacted,63.2,50.9,38,43.6,11.3,32.3,31.5,25
+949,Vallejo City Unified (Solano),48-70581-0000000,16.7,40.3,10.4,39.5,16.6,20.7,22.3,26.8,18.4,21.4,19.8,5.9,13.9,26.2,53.9
+950,Valley Center-Pauma Unified (San Diego),37-75614-0000000,8.3,50,0,41.2,14.8,redacted,25.3,35.9,21.8,21,21.4,6.2,15.3,31.6,46.9
+951,Valley Home Joint Elementary (Stanislaus),50-71324-0000000,,redacted,redacted,,14,,redacted,39.7,27.9,29.4,28.6,6.3,22.3,36.6,34.8
+952,Ventura County Office of Education (Ventura),56-10561-0000000,,redacted,redacted,,0,,redacted,0,0,0,0,0,0,8.2,91.8
+953,Ventura Unified (Ventura),56-72652-0000000,38.5,72.5,29.2,62.8,30.6,38.1,57.3,58.5,43.4,44.1,43.8,20.8,23,26.6,29.6
+954,Victor Elementary (San Bernardino),36-67918-0000000,16.2,49.6,8.4,44.8,20.7,23.3,29.9,34.1,21.5,21,21.2,6.8,14.5,27.1,51.7
+955,Victor Valley Union High (San Bernardino),36-67934-0000000,30,53.7,9,52.5,18.4,11.4,19.4,29.8,18.5,19.5,19,6.5,12.5,24,57.1
+956,Vineland Elementary (Kern),15-63834-0000000,,,,,9,,redacted,redacted,7.2,10.9,9.1,1.8,7.2,24.9,66.1
+957,Visalia Unified (Tulare),54-72256-0000000,21.4,43.6,19.4,65.1,25.5,54.6,37.5,45.8,30.8,31.1,31,12.2,18.8,28.3,40.8
+958,Vista del Mar Union (Santa Barbara),42-69344-0000000,,,,,42.9,,redacted,,61.9,32,50.8,22.4,28.4,23.9,25.4
+959,Vista Unified (San Diego),37-68452-0000000,15.2,69.9,25.6,53.8,23.5,36.8,48.1,54.3,34.4,32.4,33.4,13,20.4,29.1,37.5
+960,Walnut Creek Elementary (Contra Costa),07-61812-0000000,redacted,79.4,54.2,72.2,45.6,redacted,73.4,70.6,67.4,68.8,68.1,39.9,28.2,21,11
+961,Walnut Valley Unified (Los Angeles),19-73460-0000000,redacted,87,43.2,76.7,46.1,68.5,78.1,61.9,74.4,72.9,73.7,48.6,25,16.1,10.2
+962,Warner Unified (San Diego),37-75416-0000000,16,redacted,,,12,,redacted,15,13,14.3,13.5,2.7,10.8,23,63.5
+963,Wasco Union Elementary (Kern),15-63842-0000000,redacted,16.7,12.2,redacted,16.3,redacted,redacted,26.6,16.6,16.6,16.6,4.5,12.1,29.2,54.3
+964,Wasco Union High (Kern),15-63859-0000000,,,redacted,,22.4,,redacted,27.6,23.6,20.9,22.2,5.1,17.2,30.6,47.2
+965,Washington Colony Elementary (Fresno),10-62513-0000000,redacted,redacted,redacted,,27,,redacted,45.8,24.3,33.8,28.9,11.4,17.5,28.9,42.1
+966,Washington Unified (Fresno),10-76778-0000000,18.2,37.6,16.5,,23,,redacted,35.4,24.7,24.3,24.5,7.6,16.9,28.7,46.8
+967,Washington Unified (Yolo),57-72694-0000000,13.8,46,14.4,51.7,18.4,35.4,32.9,43.6,30.1,30.2,30.2,9.9,20.3,28.5,41.4
+968,Washington Union Elementary (Monterey),27-66233-0000000,redacted,84,redacted,redacted,45.1,redacted,79,64.1,67.1,59.5,63.3,35.5,27.9,26.4,10.3
+969,Waterford Unified (Stanislaus),50-75572-0000000,redacted,redacted,16.7,redacted,17.6,redacted,redacted,31.9,21.4,22.8,22.1,6.2,15.9,31.6,46.4
+970,Waugh Elementary (Sonoma),49-70995-0000000,redacted,84.4,redacted,redacted,49.6,,75.6,64,64.3,62,63.2,34.2,29,22.4,14.4
+971,Waukena Joint Union Elementary (Tulare),54-72264-0000000,,,redacted,redacted,27.3,,,52.2,32.9,29.3,31,12.3,18.7,38.1,31
+972,Weaver Union (Merced),24-65862-0000000,redacted,32.1,17.2,redacted,26.9,redacted,34.4,39.3,28.7,28.4,28.5,10.5,18.1,31.3,40.2
+973,Weed Union Elementary (Siskiyou),47-70482-0000000,redacted,redacted,redacted,,19.6,,25,26.8,24.8,22.2,23.6,7.1,16.5,32.4,44
+974,West Contra Costa Unified (Contra Costa),07-61796-0000000,29.4,45.4,11.6,43,15.2,17.7,42,50.4,23.7,23.6,23.7,9.4,14.3,24.6,51.7
+975,West Covina Unified (Los Angeles),19-65094-0000000,redacted,72.4,21.8,60.8,30.9,56.3,53.7,37.6,38.1,36.4,37.3,14.8,22.5,28,34.7
+976,West Park Elementary (Fresno),10-62539-0000000,redacted,21.7,redacted,,11.3,,redacted,8.8,9.5,13.7,11.6,1.3,10.2,25,63.4
+977,West Side Union Elementary (Sonoma),49-71001-0000000,,,,,20,,redacted,44.4,36.6,36.2,36.4,15.9,20.5,28.4,35.2
+978,West Sonoma County Union High (Sonoma),49-70607-0000000,redacted,redacted,redacted,redacted,28.3,redacted,redacted,45.9,43.9,39.5,41.8,17.2,24.5,28.5,29.7
+979,Western Placer Unified (Placer),31-66951-0000000,52.9,65.2,34.8,49,29.7,34.5,43.5,49.7,45.1,42.4,43.7,19.5,24.3,32.1,24.2
+980,Westminster (Orange),30-66746-0000000,29.2,73.2,37.2,69.8,30.4,33.3,59.1,60.1,52.9,51.8,52.4,28.9,23.4,23.3,24.3
+981,Westmorland Union Elementary (Imperial),13-63230-0000000,,,redacted,,22.6,,,31.3,23.3,22.7,23,3.2,19.8,33.9,43.2
+982,Westside Elementary (Fresno),10-62547-0000000,,,,,9.6,,,redacted,10.3,8.5,9.5,0.7,8.8,33.6,56.9
+983,Westside Union Elementary (Los Angeles),19-65102-0000000,22.2,64.6,17,44.6,27.7,redacted,36.8,41.5,33.7,31.8,32.8,12.3,20.5,33.1,34.1
+984,Westwood Unified (Lassen),18-64204-0000000,redacted,redacted,redacted,,46.2,,redacted,17,19.2,25.7,22,4.9,17.1,46.3,31.7
+985,Wheatland (Yuba),58-72751-0000000,14.3,45.8,27.9,50,34.5,redacted,31.3,40,37.8,37.3,37.6,11.1,26.5,37.4,25
+986,Wheatland Union High (Yuba),58-72769-0000000,redacted,redacted,redacted,,25.6,,redacted,31.3,31.7,30.8,31.3,4.2,27.1,31.9,36.8
+987,Whitmore Union Elementary (Shasta),45-70169-0000000,redacted,,,,redacted,,redacted,redacted,redacted,redacted,13.3,0,13.3,26.7,60
+988,Whittier City Elementary (Los Angeles),19-65110-0000000,redacted,60,29,35.7,32.3,redacted,47.4,38,33,32,32.5,12.6,19.9,31.2,36.3
+989,Whittier Union High (Los Angeles),19-65128-0000000,redacted,70.3,25.9,48.5,25.7,redacted,redacted,40.5,26.6,28.9,27.7,7.8,19.9,28.3,44.1
+990,William S. Hart Union High (Los Angeles),19-65136-0000000,redacted,87.1,38.4,67.1,37.4,50,60.7,60.1,52.8,53.3,53,26.1,26.9,25.4,21.6
+991,Williams Unified (Colusa),06-61622-0000000,redacted,redacted,,,17.5,,redacted,28.1,17.9,19,18.4,3.5,14.9,31.5,50.1
+992,Willits Unified (Mendocino),23-65623-0000000,14,redacted,redacted,redacted,14,,30.8,23.7,16.9,22.2,19.4,6,13.4,28.8,51.9
+993,Willow Creek Elementary (Siskiyou),47-70490-0000000,redacted,,,,redacted,,redacted,26.3,redacted,12.5,20.8,4.2,16.7,41.7,37.5
+994,Willow Grove Union Elementary (San Benito),35-67579-0000000,,,,,redacted,,,,redacted,redacted,redacted,redacted,redacted,redacted,redacted
+995,Willows Unified (Glenn),11-62661-0000000,25,11.1,redacted,redacted,15.9,,redacted,28.7,21,21.2,21.1,5.4,15.7,27,51.9
+996,Wilmar Union Elementary (Sonoma),49-71019-0000000,redacted,redacted,,,36.8,,redacted,64.6,54.2,63.8,59.4,37.7,21.7,25.5,15.1
+997,Wilsona Elementary (Los Angeles),19-65151-0000000,redacted,redacted,8.1,redacted,20.3,,33.3,34.1,21.2,22.2,21.7,6.3,15.4,31,47.4
+998,Windsor Unified (Sonoma),49-75358-0000000,13.6,38.5,11.1,redacted,20,redacted,33.3,40.7,29.3,29.1,29.2,10.4,18.9,32.7,38.1
+999,Winship-Robbins (Sutter),51-71456-0000000,,redacted,,,43.2,,,54.2,41,51.6,47.5,16.8,30.7,31.7,20.8
+1000,Winters Joint Unified (Yolo),57-72702-0000000,redacted,redacted,redacted,redacted,18.5,redacted,redacted,41.3,25.1,26.1,25.6,9.1,16.5,32.4,41.9
+1001,Winton (Merced),24-65870-0000000,redacted,53.2,8.3,redacted,32.2,,redacted,46.4,32.8,34.7,33.7,11.6,22.1,32.5,33.7
+1002,Wiseburn Unified (Los Angeles),19-76869-0000000,redacted,75,45.9,72.7,48.9,41.7,68.7,58.1,52.5,52.7,52.6,21.7,31,32.1,15.3
+1003,Woodlake Unified (Tulare),54-76794-0000000,redacted,redacted,redacted,,23.1,,redacted,21.2,21.6,24.2,22.9,6.8,16.2,27.7,49.4
+1004,Woodland Joint Unified (Yolo),57-72710-0000000,26.9,40.6,14.3,55.6,22.1,18.2,42.7,42.1,28,27.5,27.8,10,17.8,30,42.2
+1005,Woodside Elementary (San Mateo),41-69088-0000000,,90.9,redacted,,50,redacted,80,87.8,84.2,75,79.8,52.6,27.3,17,3.2
+1006,Woodville Union Elementary (Tulare),54-72298-0000000,,,,,21.4,,,redacted,24.4,17.7,21,5.4,15.6,28.3,50.7
+1007,Wright Elementary (Sonoma),49-71035-0000000,9.1,56.5,37,50,26.3,redacted,60.9,41.1,35.3,29.5,32.4,10,22.5,36,31.6
+1008,Yolo County Office of Education (Yolo),57-10579-0000000,redacted,redacted,redacted,,0,redacted,,redacted,0,redacted,0,0,0,7.1,92.9
+1009,Yosemite Unified (Madera),20-76414-0000000,25.9,23.1,redacted,,23.1,,41.3,36.3,35,33,33.9,13.1,20.8,31.7,34.4
+1010,Yreka Union Elementary (Siskiyou),47-70508-0000000,26.2,46.2,redacted,,33.7,,31,37.2,35.6,33.3,34.5,12.8,21.7,33.9,31.7
+1011,Yreka Union High (Siskiyou),47-70516-0000000,redacted,redacted,redacted,,16.7,,38.9,34.9,33.3,29.2,31.3,7.5,23.9,26.9,41.8
+1012,Yuba City Unified (Sutter),51-71464-0000000,9.7,39,10.1,71,18.6,42.9,31.3,33.1,27.7,27,27.3,9.2,18.2,31.5,41.2
+1013,Yuba County Office of Education (Yuba),58-10587-0000000,redacted,redacted,redacted,,0,redacted,0,3.6,0,3.5,1.6,0.8,0.8,13.3,85.2
+1014,Yucaipa-Calimesa Joint Unified (San Bernardino),36-67959-0000000,27.8,64.8,19.8,68.8,26.2,redacted,39,43.7,36.4,35.9,36.2,13.4,22.8,29,34.8
