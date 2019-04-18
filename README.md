@@ -15,5 +15,3 @@ https://www.ed-data.org/Comparisons?compType=districts
 *On college readiness I did not download percentages since it is a calculation and so I could download that category as a single file. 
 
 The notebook has code I used to make the file.
-
-See 
