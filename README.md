@@ -1,5 +1,7 @@
 # public-k12-data
 
+April 2019
+
 ed-data_districts_fall2009-spr2017.csv (outside of folder) contains the all the data on districts from ed-data for years 2009-spring 2017. I did not download 2017-2018 since it has more updates coming. Even 2016-2017 may still be being updated. A timeline should be established for downloads.
 
 Ask for our CompareK12 Proposal for context.See the data sources document for our assessment of Ed-data, other CDE fields, and next steps. https://docs.google.com/document/d/1e5cjBUxleD9Dtjup8euivPYmJMgypJXaUuViMo-UdqY/edit?usp=sharing
